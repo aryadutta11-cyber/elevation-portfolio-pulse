@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0d1b2a;
+  --foreground: #f4f2ed;
 }
 
 @theme inline {
@@ -19,15 +19,112 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+body {
+  background-color: var(--color-ec-navy);
+  color: var(--color-ec-cream);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+::selection {
+  background: rgba(50, 131, 255, 0.35);
+  color: #EBF1FA;
+}
+
+/* ---- Glassmorphism ---- */
+
+.glass-card {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    rgba(195, 218, 248, 0.09) 0%,
+    rgba(214, 230, 255, 0.04) 55%,
+    rgba(50, 131, 255, 0.05) 100%
+  );
+  border: 1px solid rgba(195, 218, 248, 0.16);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(235, 241, 250, 0.10);
+  transition:
+    border-color 0.35s ease,
+    box-shadow 0.35s ease,
+    background 0.35s ease;
+}
+
+.glass-card:hover {
+  border-color: rgba(50, 131, 255, 0.45);
+  background: linear-gradient(
+    135deg,
+    rgba(195, 218, 248, 0.13) 0%,
+    rgba(214, 230, 255, 0.06) 55%,
+    rgba(50, 131, 255, 0.10) 100%
+  );
+  box-shadow:
+    0 16px 48px rgba(0, 0, 0, 0.35),
+    0 0 44px rgba(50, 131, 255, 0.18),
+    inset 0 1px 0 rgba(235, 241, 250, 0.14);
+}
+
+/* Sheen that sweeps across a card on hover */
+.glass-sheen::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    115deg,
+    transparent 30%,
+    rgba(235, 241, 250, 0.07) 48%,
+    rgba(235, 241, 250, 0.12) 52%,
+    transparent 70%
+  );
+  background-size: 260% 100%;
+  background-position: 120% 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: background-position 0.9s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.4s ease;
+}
+
+.glass-sheen:hover::after {
+  background-position: -60% 0;
+  opacity: 1;
+}
+
+/* Faint blueprint grid used by the parallax background */
+.bg-grid-faint {
+  background-image:
+    linear-gradient(rgba(195, 218, 248, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(195, 218, 248, 0.045) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 90% 70% at 50% 20%, black 30%, transparent 78%);
+  -webkit-mask-image: radial-gradient(ellipse 90% 70% at 50% 20%, black 30%, transparent 78%);
+}
+
+/* Gradient headline text */
+.text-gradient-brand {
+  background: linear-gradient(100deg, #f4f2ed 20%, #C3DAF8 55%, #3283FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Pulsing dot for the "hot" status badge */
+@keyframes status-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 var(--pulse-color, rgba(34, 197, 94, 0.45)); }
+  50% { box-shadow: 0 0 0 5px transparent; }
+}
+
+.status-dot-pulse {
+  animation: status-pulse 2.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .status-dot-pulse {
+    animation: none;
+  }
+  .glass-sheen::after {
+    transition: none;
+  }
 }

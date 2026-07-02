@@ -1,65 +1,101 @@
-import Image from "next/image";
+import { COMPANIES } from '../data/companies';
+import portfolio from '../data/portfolio.json';
+import { CompanyCard } from '../components/CompanyCard';
+import { ParallaxBackground } from '../components/ParallaxBackground';
+import { deriveStatus, type Status } from '../lib/status';
+import type { PortfolioSnapshot } from '../lib/types';
+
+const snapshot = portfolio as PortfolioSnapshot;
+
+const TIMESTAMP_FORMAT = new Intl.DateTimeFormat('en-IN', {
+  dateStyle: 'medium',
+  timeStyle: 'short',
+  timeZone: 'Asia/Kolkata',
+});
+
+const STATUS_ORDER: Status[] = ['hot', 'watch', 'stable'];
+
+const STATUS_SUMMARY_STYLE: Record<Status, string> = {
+  hot: 'text-emerald-400',
+  watch: 'text-yellow-400',
+  stable: 'text-slate-400',
+};
 
 export default function Home() {
+  const statusCounts = snapshot.companies.reduce<Record<Status, number>>(
+    (acc, signals) => {
+      acc[deriveStatus(signals)] += 1;
+      return acc;
+    },
+    { hot: 0, watch: 0, stable: 0 },
+  );
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <main className="relative min-h-screen px-6 py-16 sm:px-10 lg:px-12 sm:py-20">
+      <ParallaxBackground />
+
+      <div className="mx-auto max-w-6xl">
+        <header>
+          <p className="text-xs font-semibold uppercase tracking-[0.28em] text-ec-blue">
+            Elevation Capital
           </p>
+          <h1 className="text-gradient-brand mt-3 max-w-2xl text-4xl font-bold tracking-tight sm:text-5xl">
+            Portfolio Pulse
+          </h1>
+          <p className="mt-4 max-w-xl text-base leading-relaxed text-ec-glass-1/70">
+            Public momentum signals across the portfolio — news coverage,
+            founder mentions, and app-store standing at a glance.
+          </p>
+
+          <div className="mt-7 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-ec-glass-1/60">
+            <span>
+              Last refreshed{' '}
+              <time
+                dateTime={snapshot.generatedAt}
+                className="font-medium text-ec-glass-2"
+              >
+                {TIMESTAMP_FORMAT.format(new Date(snapshot.generatedAt))} IST
+              </time>
+            </span>
+            <span className="hidden h-1 w-1 rounded-full bg-ec-glass-1/30 sm:inline-block" />
+            <span className="flex items-center gap-4">
+              {STATUS_ORDER.map((status) => (
+                <span key={status} className="flex items-center gap-1.5">
+                  <span
+                    className={`font-semibold tabular-nums ${STATUS_SUMMARY_STYLE[status]}`}
+                  >
+                    {statusCounts[status]}
+                  </span>
+                  <span className="capitalize">{status}</span>
+                </span>
+              ))}
+            </span>
+          </div>
+        </header>
+
+        <div className="mt-12 grid grid-cols-1 gap-5 sm:grid-cols-2 sm:gap-6 lg:grid-cols-3">
+          {COMPANIES.map((company, index) => {
+            const signals = snapshot.companies.find(
+              (c) => c.slug === company.slug,
+            );
+            if (!signals) return null;
+            return (
+              <CompanyCard
+                key={company.slug}
+                name={company.name}
+                slug={company.slug}
+                signals={signals}
+                index={index}
+              />
+            );
+          })}
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+
+        <footer className="mt-16 border-t border-ec-glass-1/10 pt-6 text-xs text-ec-glass-1/40">
+          Signals are derived from public sources and refreshed on a schedule.
+          Static snapshot — not investment advice.
+        </footer>
+      </div>
+    </main>
   );
 }
