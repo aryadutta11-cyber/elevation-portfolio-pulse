@@ -1,0 +1,182 @@
+{
+  "generatedAt": "2026-07-02T19:32:58.542Z",
+  "companies": [
+    {
+      "slug": "swiggy",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:54.632Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:54.632Z"
+        }
+      ]
+    },
+    {
+      "slug": "paytm",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": 4.66041,
+          "fetchedAt": "2026-07-02T19:32:55.344Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:55.344Z"
+        }
+      ]
+    },
+    {
+      "slug": "makemytrip",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:55.775Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:55.775Z"
+        }
+      ]
+    },
+    {
+      "slug": "meesho",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:56.118Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:56.118Z"
+        }
+      ]
+    },
+    {
+      "slug": "urban-company",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:56.867Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:56.867Z"
+        }
+      ]
+    },
+    {
+      "slug": "acko",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:57.134Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:57.134Z"
+        }
+      ]
+    },
+    {
+      "slug": "nobroker",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:57.501Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:57.501Z"
+        }
+      ]
+    },
+    {
+      "slug": "spinny",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:57.808Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:57.808Z"
+        }
+      ]
+    },
+    {
+      "slug": "xpressbees",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": []
+    },
+    {
+      "slug": "unacademy",
+      "news": null,
+      "founderMentions": null,
+      "appRanks": [
+        {
+          "platform": "ios",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:58.123Z"
+        },
+        {
+          "platform": "android",
+          "rank": null,
+          "rating": null,
+          "fetchedAt": "2026-07-02T19:32:58.123Z"
+        }
+      ]
+    }
+  ]
+}
