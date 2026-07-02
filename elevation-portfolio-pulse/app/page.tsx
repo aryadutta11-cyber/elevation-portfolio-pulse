@@ -2,7 +2,7 @@ import { COMPANIES } from '../data/companies';
 import portfolio from '../data/portfolio.json';
 import { CompanyCard } from '../components/CompanyCard';
 import { ParallaxBackground } from '../components/ParallaxBackground';
-import { deriveStatus, type Status } from '../lib/status';
+import { deriveStatus, STATUS_COLORS, type Status } from '../lib/status';
 import type { PortfolioSnapshot } from '../lib/types';
 
 const snapshot = portfolio as PortfolioSnapshot;
@@ -14,12 +14,6 @@ const TIMESTAMP_FORMAT = new Intl.DateTimeFormat('en-IN', {
 });
 
 const STATUS_ORDER: Status[] = ['hot', 'watch', 'stable'];
-
-const STATUS_SUMMARY_STYLE: Record<Status, string> = {
-  hot: 'text-emerald-400',
-  watch: 'text-yellow-400',
-  stable: 'text-slate-400',
-};
 
 export default function Home() {
   const statusCounts = snapshot.companies.reduce<Record<Status, number>>(
@@ -62,7 +56,8 @@ export default function Home() {
               {STATUS_ORDER.map((status) => (
                 <span key={status} className="flex items-center gap-1.5">
                   <span
-                    className={`font-semibold tabular-nums ${STATUS_SUMMARY_STYLE[status]}`}
+                    className="font-semibold tabular-nums"
+                    style={{ color: STATUS_COLORS[status] }}
                   >
                     {statusCounts[status]}
                   </span>

@@ -1,12 +1,12 @@
-import type { Status } from '../lib/status';
+import { STATUS_COLORS, type Status } from '../lib/status';
 
 const STATUS_CONFIG: Record<
   Status,
   { label: string; color: string; pulse: boolean }
 > = {
-  hot: { label: 'Hot', color: '#22c55e', pulse: true },
-  watch: { label: 'Watch', color: '#eab308', pulse: false },
-  stable: { label: 'Stable', color: '#94a3b8', pulse: false },
+  hot: { label: 'Hot', color: STATUS_COLORS.hot, pulse: true },
+  watch: { label: 'Watch', color: STATUS_COLORS.watch, pulse: false },
+  stable: { label: 'Stable', color: STATUS_COLORS.stable, pulse: false },
 };
 
 export function StatusBadge({ status }: { status: Status }) {
