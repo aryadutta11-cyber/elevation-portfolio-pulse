@@ -11,7 +11,7 @@ export const STATUS_COLORS: Record<Status, string> = {
 export function deriveStatus(signals: CompanySignals): Status {
   const newsCount = signals.news?.length ?? 0;
 
-  if (newsCount >= 5) return 'hot';
-  if (newsCount >= 1) return 'watch';
+  if (newsCount >= 15) return 'hot';
+  if (newsCount >= 6) return 'watch';
   return 'stable';
 }

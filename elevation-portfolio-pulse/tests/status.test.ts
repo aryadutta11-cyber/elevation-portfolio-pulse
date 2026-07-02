@@ -12,28 +12,28 @@ function makeSignals(overrides: Partial<CompanySignals>): CompanySignals {
   };
 }
 
+function headlines(count: number) {
+  return Array.from({ length: count }, (_, i) => ({
+    title: `Headline ${i}`,
+    url: 'https://example.com',
+    publishedAt: null,
+  }));
+}
+
 describe('deriveStatus', () => {
-  it('returns "hot" when there are 5 or more news headlines', () => {
-    const signals = makeSignals({
-      news: Array.from({ length: 5 }, (_, i) => ({
-        title: `Headline ${i}`,
-        url: 'https://example.com',
-        publishedAt: null,
-      })),
-    });
-    expect(deriveStatus(signals)).toBe('hot');
+  it('returns "hot" when there are 15 or more news headlines', () => {
+    expect(deriveStatus(makeSignals({ news: headlines(15) }))).toBe('hot');
+    expect(deriveStatus(makeSignals({ news: headlines(20) }))).toBe('hot');
   });
 
-  it('returns "watch" when there are 1-4 news headlines', () => {
-    const signals = makeSignals({
-      news: [{ title: 'One headline', url: 'https://example.com', publishedAt: null }],
-    });
-    expect(deriveStatus(signals)).toBe('watch');
+  it('returns "watch" when there are 6-14 news headlines', () => {
+    expect(deriveStatus(makeSignals({ news: headlines(6) }))).toBe('watch');
+    expect(deriveStatus(makeSignals({ news: headlines(14) }))).toBe('watch');
   });
 
-  it('returns "stable" when there is no news', () => {
-    const signals = makeSignals({ news: [] });
-    expect(deriveStatus(signals)).toBe('stable');
+  it('returns "stable" when there are 5 or fewer news headlines', () => {
+    expect(deriveStatus(makeSignals({ news: headlines(5) }))).toBe('stable');
+    expect(deriveStatus(makeSignals({ news: [] }))).toBe('stable');
   });
 
   it('returns "stable" when news data is null (fetch failed)', () => {
