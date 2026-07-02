@@ -20,6 +20,17 @@ const TIMESTAMP_FORMAT = new Intl.DateTimeFormat('en-IN', {
   timeZone: 'Asia/Kolkata',
 });
 
+// Firecrawl returns relative strings like "3 days ago" as often as ISO
+// timestamps, so publishedAt isn't reliably Date-parseable. Format when it
+// is, otherwise show the source string as-is rather than crash or drop it.
+function formatPublishedAt(publishedAt: string): { display: string; iso: string | null } {
+  const date = new Date(publishedAt);
+  if (Number.isNaN(date.getTime())) {
+    return { display: publishedAt, iso: null };
+  }
+  return { display: DATE_FORMAT.format(date), iso: date.toISOString() };
+}
+
 function HeadlineList({
   headlines,
   emptyLabel,
@@ -54,14 +65,17 @@ function HeadlineList({
               <span className="block text-sm font-medium leading-snug text-ec-cream transition-colors group-hover:text-ec-glass-2">
                 {h.title}
               </span>
-              {h.publishedAt && (
-                <time
-                  dateTime={h.publishedAt}
-                  className="mt-1.5 block text-xs text-ec-glass-1/50"
-                >
-                  {DATE_FORMAT.format(new Date(h.publishedAt))}
-                </time>
-              )}
+              {h.publishedAt && (() => {
+                const { display, iso } = formatPublishedAt(h.publishedAt);
+                return (
+                  <time
+                    dateTime={iso ?? undefined}
+                    className="mt-1.5 block text-xs text-ec-glass-1/50"
+                  >
+                    {display}
+                  </time>
+                );
+              })()}
             </span>
             <span
               aria-hidden

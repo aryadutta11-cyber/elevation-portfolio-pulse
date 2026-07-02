@@ -1,180 +1,1200 @@
 {
-  "generatedAt": "2026-07-02T19:32:58.542Z",
+  "generatedAt": "2026-07-02T20:17:30.139Z",
   "companies": [
     {
       "slug": "swiggy",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "Amazon’s Rapid Delivery Push Triggers $15 Billion Rout for Eternal, Swiggy",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/amazon-s-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Shopping without searching: The Agentic AI future Amazon, Swiggy and Zepto are building in India",
+          "url": "https://m.economictimes.com/magazines/panache/shopping-without-searching-the-agentic-ai-future-amazon-swiggy-and-zepto-are-building-in-india/articleshow/132137378.cms",
+          "publishedAt": "9 hours ago"
+        },
+        {
+          "title": "Swiggy Dineout Partners Apsara To Launch PlayPad For Young Diners",
+          "url": "https://everythingexperiential.com/article/swiggy-dineout-partners-apsara-to-launch-playpad-for-young-diners-613042",
+          "publishedAt": "11 hours ago"
+        },
+        {
+          "title": "Restaurant Waiting Time Turns Creative as Apsara and Swiggy Dineout Launch PlayPad",
+          "url": "https://www.prittleprattlenews.com/lifestyle/apsara-swiggy-dineout-playpad-screen-free-dining/",
+          "publishedAt": "9 hours ago"
+        },
+        {
+          "title": "Amazon push into quick commerce wipes $15 billion off Swiggy, Eternal valuations",
+          "url": "https://www.storyboard18.com/brand-makers/amazon-push-into-quick-commerce-wipes-15-billion-off-swiggy-eternal-valuations-102667.htm",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Amazon’s rapid delivery push triggers $15-billion rout for Eternal, Swiggy",
+          "url": "https://www.thehindubusinessline.com/markets/amazons-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy/article71160325.ece",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Kotak retains 'Buy' on Eternal, Swiggy; says Blinkit remains best placed in quick commerce",
+          "url": "https://entrackr.com/news/kotak-retains-buy-on-eternal-swiggy-says-blinkit-remains-best-placed-in-quick-commerce-12122745",
+          "publishedAt": "1 day ago"
+        },
+        {
+          "title": "Swiggy Stock Leads 3 Indian Cash Flow Picks Trading Below Estimated Fair Value",
+          "url": "https://simplywall.st/stocks/in/transportation/nse-mahlog/mahindra-logistics-shares/news/swiggy-stock-leads-3-indian-cash-flow-picks-trading-below-es",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Swiggy Instamart names Gautam Swaroop CBO after top-level exits",
+          "url": "https://www.cnbctv18.com/business/companies/swiggy-instamart-names-gautam-swaroop-cbo-after-top-level-exits-19937274.htm",
+          "publishedAt": "10 hours ago"
+        },
+        {
+          "title": "Swiggy-owned Instamart appoints Gautam Swaroop as Chief Business Officer",
+          "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/swiggy-owned-instamart-appoints-gautam-swaroop-as-chief-business-officer/132112546",
+          "publishedAt": "1 day ago"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "Swiggy co-founder Nandan Reddy steps down amid board leadership reshuffle",
+          "url": "https://www.newindianexpress.com/business/2026/Apr/10/swiggy-co-founder-nandan-reddy-steps-down-amid-board-leadership-reshuffle",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy co-founder Nandan Reddy exits; leadership changes announced",
+          "url": "https://www.storyboard18.com/brand-makers/swiggy-cofounder-nandan-reddy-quits-as-company-revamps-leadership-ws-l-94796.htm",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy rejig: Co-founder Nandan Reddy to quit; Board members to shuffle",
+          "url": "https://www.moneycontrol.com/news/business/markets/swiggy-rejig-co-founder-nandan-reddy-to-quit-board-members-to-shuffle-13885657.html",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy cofounder Nandan Reddy steps down, may start up again",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/swiggy-cofounder-nandan-reddy-steps-down-may-start-up-again/articleshow/130176951.cms",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy co-founder Nandan Reddy steps down from board",
+          "url": "https://yourstory.com/2026/04/swiggy-co-founder-nandan-reddy-steps-down-from-board",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy co-founder Nandan Reddy steps down as board sees key changes",
+          "url": "https://www.business-standard.com/companies/people/swiggy-co-founder-nandan-reddy-steps-down-as-board-sees-key-changes-126041001086_1.html",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy cofounder Nandan Reddy quits",
+          "url": "https://indiantelevision.com/mam/swiggy-cofounder-nandan-reddy-quits/",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy co-founder Nandan Reddy steps down; board revamp underway",
+          "url": "https://www.cnbctv18.com/market/swiggy-co-founder-nandan-reddy-steps-down-board-revamp-underway-ws-l-19884970.htm",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy co-founder's exit: Who is Nandan Reddy, who quit company amid board reshuffle?",
+          "url": "https://www.india.com/business/swiggy-co-founder-exit-who-is-nandan-reddy-phani-kishan-rahul-bothra-executive-directors-sriharsha-majety-8376350/",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
+          "title": "Swiggy CEO Sriharsha Majety, top execs gain ₹2,240 crore in ESOPs before IPO",
+          "url": "https://upstox.com/news/market-news/ipo/swiggy-ceo-sriharsha-majety-top-execs-gain-2240-crore-in-eso-ps-before-ipo/article-121304/",
+          "publishedAt": "Feb 16, 2026"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:54.632Z"
+          "fetchedAt": "2026-07-02T20:16:59.830Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:54.632Z"
+          "fetchedAt": "2026-07-02T20:16:59.830Z"
         }
       ]
     },
     {
       "slug": "paytm",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "PAYTM: Upcoming Board Decisions And Teen Payment Push Will Support Upside",
+          "url": "https://simplywall.st/community/narratives/in/diversified-financials/nse-paytm/one97-communications-shares/kxa3ex7y-digital-payment-advances-will-drive-long-term-trends-in-financial-markets/updates/20-analysts-have-trimmed-their-fair-value-estimate-for-one97-co",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Paytm among 4 stocks that closed crossing above VWAP",
+          "url": "https://m.economictimes.com/markets/stocks/news/paytm-among-4-stocks-that-closed-crossing-above-vwap/trend-tracker/slideshow/132128324.cms",
+          "publishedAt": "16 hours ago"
+        },
+        {
+          "title": "Paytm’s comeback trade gets louder as Goldman Sachs sees room for re-rating",
+          "url": "https://www.moneycontrol.com/news/business/markets/paytm-s-comeback-trade-gets-louder-as-goldman-sachs-sees-room-for-re-rating-13961457.html",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Paytm, DLF, L&T Finance among top stock picks by Ajit Mishra; here's why",
+          "url": "https://www.business-standard.com/markets/news/paytm-dlf-l-t-finance-among-top-stock-picks-by-ajit-mishra-here-s-why-126070200091_1.html",
+          "publishedAt": "19 hours ago"
+        },
+        {
+          "title": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping",
+          "url": "https://www.reuters.com/world/india/indias-paytm-slumps-7-after-rbi-cancels-banking-licence-its-payments-bank-2026-04-27/",
+          "publishedAt": "Apr 27, 2026"
+        },
+        {
+          "title": "Goldman Sachs: Paytm Set for Growth with Strategic Market Moves",
+          "url": "https://www.devdiscourse.com/article/business/3942290-goldman-sachs-paytm-set-for-growth-with-strategic-market-moves",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "What Paytm’s licence loss means for banks in India",
+          "url": "https://www.thebanker.com/content/d3f16a13-4b82-4298-a8b3-5a222f4676b1",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "India's Paytm forecasts higher revenue growth in FY 2027",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/indian-fintech-firm-paytm-posts-150007444.html",
+          "publishedAt": "May 6, 2026"
+        },
+        {
+          "title": "Paytm Plans 4,000 Hires As Fintech Rebuild Gains Momentum",
+          "url": "https://www.gurufocus.com/news/8907314/paytm-plans-4000-hires-as-fintech-rebuild-gains-momentum?mobile=true",
+          "publishedAt": "3 weeks ago"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "'This could be a disaster': From Ankur Warikoo to Vijay Shekhar Sharma, why India's startup leaders are wo",
+          "url": "https://m.economictimes.com/news/new-updates/this-could-be-a-disaster-from-ankur-warikoo-to-vijay-shekhar-sharma-why-indias-startup-leaders-are-worried-about-kunal-shahs-first-move-at-whatsapp/articleshow/132086250.cms",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "“This could be a disaster”: Ankur Warikoo, Jasveer Singh and Vijay Shekhar Sharma warn about WhatsApp use",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/this-could-be-a-disaster-ankur-warikoo-jasveer-singh-and-vijay-shekhar-sharma-warn-about-whatsapp-usernames/articleshow/132096631.cms",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Who owns Paytm? Vijay Shekhar Sharma’s net worth and stake explained",
+          "url": "https://www.storyboard18.com/trending/who-owns-paytm-vijay-shekhar-sharmas-net-worth-and-stake-explained-101397.htm",
+          "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "'AI Has Arrived In India': Vijay Shekhar Sharma Reacts To AirTrunk's $30 Billion Investment Plan",
+          "url": "https://www.ndtvprofit.com/business/ai-has-arrived-in-india-paytm-founder-vijay-shekhar-sharma-reacts-to-airtrunks-30-billion-investment-plan-11595504",
+          "publishedAt": "4 weeks ago"
+        },
+        {
+          "title": "Notes from the last disruption: Vijay Shekhar Sharma on how a pivot saved his empire",
+          "url": "https://yourstory.com/2026/02/notes-from-the-last-disruption-vijay-shekhar-sharma-on-how-a-pivot-saved-his-empire",
+          "publishedAt": "Feb 20, 2026"
+        },
+        {
+          "title": "Paytm CEO Foresees Continued Payments Growth, Emphasizes AI",
+          "url": "https://letsdatascience.com/news/paytm-ceo-foresees-continued-payments-growth-emphasizes-ai-0226ce30",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "'This should scare anyone': WhatsApp usernames spark privacy, scam fears",
+          "url": "https://www.storyboard18.com/digital/this-should-scare-anyone-whatsapp-usernames-spark-privacy-scam-fears-102754.htm",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Paytm's pivotal year: How Vijay Shekhar Sharma steered Indian fintech's boldest turnaround story",
+          "url": "https://www.indiatoday.in/business/story/paytms-pivotal-year-how-vijay-shekhar-sharma-steered-indian-fintechs-boldest-turnaround-story-2911755-2026-05-14",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "Paytm Founder Ownership: Commitment Signal?",
+          "url": "https://money.rediff.com/news/market/paytm-founder-ownership-commitment-signal/40915320260128",
+          "publishedAt": "Jan 28, 2026"
+        },
+        {
+          "title": "How Small-Town Dreamer Turned Failures Into India’s Digital Payments Revolution",
+          "url": "https://thebetterindia.com/startup/vijay-shekhar-sharma-paytm-success-story-11256230",
+          "publishedAt": "Mar 24, 2026"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": 4.66041,
-          "fetchedAt": "2026-07-02T19:32:55.344Z"
+          "fetchedAt": "2026-07-02T20:17:03.057Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:55.344Z"
+          "fetchedAt": "2026-07-02T20:17:03.057Z"
         }
       ]
     },
     {
       "slug": "makemytrip",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "[Form 4] MakeMyTrip Ltd Insider Trading Activity",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-eb9ea7b41c64.html",
+          "publishedAt": "5 hours ago"
+        },
+        {
+          "title": "MakeMyTrip (MMYT) Stock May Look Fully Priced As Earnings Expectations Stay High",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mmyt/makemytrip/news/makemytrip-mmyt-stock-may-look-fully-priced-as-earnings-expe",
+          "publishedAt": "19 hours ago"
+        },
+        {
+          "title": "MakeMyTrip and Cleartrip Both Just Launched Creator Programs. The Models Are Different — For Now",
+          "url": "https://skift.com/2026/06/29/makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-different-for-now/",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "MakeMyTrip (MMYT) CEO Rajesh Magow receives 56,576 RSU awards",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-a983623bad3b.html",
+          "publishedAt": "5 hours ago"
+        },
+        {
+          "title": "MakeMyTrip (MMYT) Advances While Market Declines: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-advances-while-market-220004083.html",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "MakeMyTrip Ltd (MMYT) Stock Up 9.2% and Still Undervalued -- GF Score: 66/100",
+          "url": "https://www.gurufocus.com/news/8942031/makemytrip-ltd-mmyt-stock-up-92-and-still-undervalued-gf-score-66100",
+          "publishedAt": "20 hours ago"
+        },
+        {
+          "title": "Goldman Sachs raises MakeMyTrip stock price target to $84 on growth outlook",
+          "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-makemytrip-stock-price-target-to-84-on-growth-outlook-93CH-4764037",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "Enterprise value to revenue forward of MakeMyTrip Ltd. – GETTEX:MY1",
+          "url": "https://www.tradingview.com/symbols/GETTEX-MY1/financials-statistics-and-ratios/enterprise-value-sales-fwd/",
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "MakeMyTrip: Temporary Travel Pressure Does Not Break The Buy Case (NASDAQ:MMYT)",
+          "url": "https://seekingalpha.com/article/4916865-makemytrip-temporary-travel-pressure-does-not-break-the-buy-case",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Travel on recovery road as war cloud clears and oil dips: MakeMyTrip group CEO",
+          "url": "https://m.economictimes.com/tech/technology/travel-on-recovery-road-as-war-cloud-clears-and-oil-dips-makemytrip-group-ceo/articleshow/132057286.cms",
+          "publishedAt": "3 days ago"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "MakeMyTrip (MMYT) director Deep Kalra granted 12,876 RSUs with performance vesting",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-d6284d620bb0.html",
+          "publishedAt": "5 hours ago"
+        },
+        {
+          "title": "Jyotsna Suri appointed Chair; Vikram Madhok appointed Vice Chair; Ragini Chopra appointed Vice Chair – Advocacy; Deep Kalra completes term as Chair.",
+          "url": "https://hospibuz.com/new-appointments/jyotsna-suri-appointed-chair-vikram-madhok-appointed-vice-chair-ragini-chopra-appointed-vice-chair-advocacy-deep-kalra-completes-term-as-chair-11089672",
+          "publishedAt": "Feb 9, 2026"
+        },
+        {
+          "title": "MakeMyTrip weighs India IPO as part of long-term plan after Nasdaq listing",
+          "url": "https://www.business-standard.com/companies/news/makemytrip-evaluates-india-listing-after-more-than-a-decade-on-nasdaq-126031601318_1.html",
+          "publishedAt": "Mar 16, 2026"
+        },
+        {
+          "title": "‘What separates leaders is how they process challenge’: Deep Kalra",
+          "url": "https://www.theweek.in/magazine/theweek/cover/2025/11/28/what-separates-leaders-is-how-they-process-challenge.html",
+          "publishedAt": "Nov 30, 2025"
+        },
+        {
+          "title": "Deep Kalra on surviving the fires, changing the rules and dreaming of travel 2045 | Conversations On Turning 20",
+          "url": "https://www.webintravel.com/deep-kalra-on-surviving-the-fires-changing-the-rules-and-dreaming-of-travel-2045-conversations-on-turning-20/",
+          "publishedAt": "Jun 23, 2025"
+        },
+        {
+          "title": "In The Big Chair - Deep Kalra of MakeMyTrip",
+          "url": "https://www.phocuswire.com/CEO-interview-Make-My-Trip-Deep-Kalra",
+          "publishedAt": "Sep 25, 2018"
+        },
+        {
+          "title": "The Journey from Startup to Travel Super App: MakeMyTrip",
+          "url": "https://www.soulofhospitality.com/leadership/from-the-ceo-lens/the-journey-from-startup-to-travel-super-app-makemytrip-1",
+          "publishedAt": "Dec 8, 2025"
+        },
+        {
+          "title": "Deep Kalra's MakeMyTrip: From Failure to a $2.84 Billion Digital Travel Revolution.",
+          "url": "https://yourstory.com/2023/08/deep-kalra-makemytrip-success-story",
+          "publishedAt": "Aug 15, 2023"
+        },
+        {
+          "title": "MakeMyTrip founder Deep Kalra sells apartment in Gurgaon to group CEO for ₹33 crore | Real Estate News",
+          "url": "https://www.hindustantimes.com/real-estate/makemytrip-founder-deep-kalra-sells-apartment-in-gurgaon-to-group-ceo-for-rs-33-crore-101703172441527.html",
+          "publishedAt": "Dec 21, 2023"
+        },
+        {
+          "title": "MakeMyTrip's Deep Kalra moves on from executive role, becomes group chairman",
+          "url": "https://m.economictimes.com/tech/startups/makemytrips-deep-kalra-moves-on-from-executive-role-becomes-group-chairman/articleshow/89120273.cms",
+          "publishedAt": "Jan 25, 2022"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:55.775Z"
+          "fetchedAt": "2026-07-02T20:17:06.689Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:55.775Z"
+          "fetchedAt": "2026-07-02T20:17:06.689Z"
         }
       ]
     },
     {
       "slug": "meesho",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "Q1 Preview: BoFA Picks Meesho, Eternal As Top New-Age Internet Bets Amid Middle East Conflict Risks",
+          "url": "https://www.ndtvprofit.com/markets/q1-preview-bofa-picks-meesho-eternal-as-top-bets-despite-middle-east-conflict-risks-11717229",
+          "publishedAt": "11 hours ago"
+        },
+        {
+          "title": "India’s Meesho to acquire B2B commerce platform Kirana Club",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/india-meesho-acquire-b2b-commerce-102322579.html",
+          "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "Eternal, Meesho, Other Consumer Tech Unicorns Challenge Karnataka’s Gig Worker Law",
+          "url": "https://inc42.com/buzz/eternal-meesho-other-consumer-tech-unicorns-challenge-karnatakas-gig-worker-law/",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Indian e-commerce firm Meesho's quarterly loss spikes as it ramps up marketing",
+          "url": "https://www.reuters.com/world/india/indian-e-commerce-firm-meesho-posts-wider-quarterly-loss-2026-01-30/",
+          "publishedAt": "Jan 30, 2026"
+        },
+        {
+          "title": "Meesho CHRO Ashish Kumar Singh resigns after nearly six year stint- Moneycontrol.com",
+          "url": "https://www.linkedin.com/posts/moneycontrol_meesho-chro-ashish-kumar-singh-resigns-after-activity-7475867046438678528-MH9V",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Fidelity Investments sells Rs 988 crore worth shares in Meesho, Goldman Sachs buys nearly 1% stake in CMR...",
+          "url": "https://www.moneycontrol.com/news/business/markets/fidelity-investments-sells-rs-988-crore-worth-shares-in-meesho-goldman-sachs-buys-nearly-1-stake-in-cmr-green-13946409.html",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Latham Advises on Meesho’s US$604 Million IPO",
+          "url": "https://www.lw.com/en/news/latham-advises-on-meesho-ipo",
+          "publishedAt": "Dec 10, 2025"
+        },
+        {
+          "title": "Meesho grants 3,886 stock options under ESOP 2024 Plan",
+          "url": "https://scanx.trade/stock-market-news/companies/meesho-grants-3-886-stock-options-under-esop-2024-plan/44435667",
+          "publishedAt": "1 day ago"
+        },
+        {
+          "title": "Fidelity offloads Meesho shares worth Rs 988 Cr through block deal",
+          "url": "https://entrackr.com/news/fidelity-offloads-meesho-shares-worth-rs-988-cr-through-block-deal-12024184",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Meesho CHRO Ashish Kumar Singh resigns after nearly six years",
+          "url": "https://www.peoplematters.in/news/business/meesho-chro-ashish-kumar-singh-resigns-after-nearly-six-years-to-support-leadership-transition-50539",
+          "publishedAt": "6 days ago"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "How Meesho's Vidit Aatrey achieved scale by giving up command",
+          "url": "https://www.forbesindia.com/article/enterprise/startups/how-meeshos-vidit-aatrey-achieved-scale-by-giving-up-command/2990070/1",
+          "publishedAt": "Jan 6, 2026"
+        },
+        {
+          "title": "Meet Vidit Aatrey, Meesho founder and India’s newest billionaire",
+          "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-vidit-aatrey-meesho-founder-and-indias-newest-billionaire/articleshow/126034266.cms",
+          "publishedAt": "Dec 17, 2025"
+        },
+        {
+          "title": "MC Interview | Meesho still works with a startup attitude; Not benchmarking against any other player:...",
+          "url": "https://www.moneycontrol.com/news/business/startup/meesho-still-works-with-a-startup-attitude-not-benchmarking-against-any-other-player-cofounder-and-ceo-vidit-aatrey-13701163.html",
+          "publishedAt": "Nov 28, 2025"
+        },
+        {
+          "title": "Vidit Aatrey on Meesho’s IPO; big gains for early backers",
+          "url": "https://m.economictimes.com/tech/newsletters/tech-top-5/meesho-ceos-pre-ipo-interview-offer-unlocks-hefty-returns/articleshow/125639348.cms",
+          "publishedAt": "Nov 28, 2025"
+        },
+        {
+          "title": "Meesho Co-founder Vidit Aatrey Joins Billionaire Club",
+          "url": "https://www.deccanchronicle.com/business/meesho-co-founder-visit-aatrey-joins-billionaire-club-1924485",
+          "publishedAt": "Dec 17, 2025"
+        },
+        {
+          "title": "Who is Meesho founder Vidit Aatrey, the latest entrant to India's billionaire club",
+          "url": "https://www.indiatoday.in/business/story/who-is-meesho-founder-vidit-aatrey-turns-billionaire-share-price-jump-52-week-high-bumper-ipo-listing-growth-outlook-2836578-2025-12-16",
+          "publishedAt": "Dec 16, 2025"
+        },
+        {
+          "title": "Meesho CEO Vidit Aatrey joins billionaire club: IPO surge drives a 74% jump in shares, lifting his fortune",
+          "url": "https://www.bhaskarenglish.in/business/news/meesho-ceo-vidit-aatrey-billionaire-ipo-share-surge-136692845.html",
+          "publishedAt": "Dec 10, 2025"
+        },
+        {
+          "title": "Meesho founder Vidit Aatrey becomes billionaire",
+          "url": "https://www.moneycontrol.com/news/business/ipo/meesho-founder-vidit-aatrey-becomes-billionaire-13718865.html",
+          "publishedAt": "Dec 16, 2025"
+        },
+        {
+          "title": "Sanjeev Barnwal and Vidit Aatrey | EY India | EY - India",
+          "url": "https://www.ey.com/en_in/entrepreneur-of-the-year/winners-2021/sanjeev-barnwal-and-vidit-aatrey",
+          "publishedAt": "Apr 19, 2022"
+        },
+        {
+          "title": "Bengaluru gives India another billionaire. Who is IIT engineer & Meesho cofounder Vidit Aatrey?",
+          "url": "https://m.economictimes.com/markets/stocks/news/bengaluru-gives-india-another-billionaire-who-is-iit-engineer-meesho-cofounder-vidit-aatrey/articleshow/125998435.cms",
+          "publishedAt": "Dec 16, 2025"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:56.118Z"
+          "fetchedAt": "2026-07-02T20:17:09.712Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:56.118Z"
+          "fetchedAt": "2026-07-02T20:17:09.712Z"
         }
       ]
     },
     {
       "slug": "urban-company",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "Enterprise value to revenue forward of Urban Company Limited – NSE:URBANCO",
+          "url": "https://www.tradingview.com/symbols/NSE-URBANCO/financials-statistics-and-ratios/enterprise-value-sales-fwd/",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "Zomato, Zepto, Swiggy, Urban Company, Porter Challenge Karnataka Gig Workers Act",
+          "url": "https://www.rediff.com/business/report/zomato-zepto-swiggy-urban-company-porter-challenge-karnataka-gig-workers-act/20260701.htm",
+          "publishedAt": "1 day ago"
+        },
+        {
+          "title": "Urban Company approves financial statements at 12th AGM",
+          "url": "https://scanx.trade/stock-market-news/companies/urban-company-approves-financial-statements-at-12th-agm/44362040",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Why Zomato, Rapido, Urban Company have moved HC against Karnataka’s new welfare law for gig workers",
+          "url": "https://theprint.in/judiciary/why-zomato-rapido-urban-company-have-moved-hc-against-karnatakas-new-welfare-law-for-gig-workers/2974733/",
+          "publishedAt": "1 day ago"
+        },
+        {
+          "title": "Urban Company Leverages Snowflake AI Data Cloud to Lead India’s Data-Driven Home Service Revolution",
+          "url": "https://www.snowflake.com/en/customers/all-customers/video/urban-company/",
+          "publishedAt": "Apr 4, 2026"
+        },
+        {
+          "title": "Is Convenience Worth The Price? Rs 350 Urban Company Haircut Compared To Rs 60 Salon Visit Sparks Debate",
+          "url": "https://www.ndtvprofit.com/trending/is-convenience-worth-the-price-rs-350-urban-company-haircut-compared-to-rs-60-salon-visit-11634237",
+          "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "Urban Company to keep InstaHelp cash burn high as it prioritises scale",
+          "url": "https://www.storyboard18.com/brand-marketing/urban-company-to-keep-instahelp-cash-burn-high-as-it-prioritises-scale-100500.htm",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Urban Company Share Price Jumps 16%: SBI MF Buys ₹632 Cr Stake",
+          "url": "https://www.sahi.com/blogs/urban-company-share-price-jumps-16-what-s-driving-the-sudden-surge",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "'Meri Job Cancel Kar Di': Urban Company Worker Breaks Down, Says Customer 'Pushed' Her Out After Partial Se",
+          "url": "https://www.news18.com/viral/meri-job-cancel-kar-di-urban-company-worker-breaks-down-says-customer-pushed-her-out-after-partial-service-ws-l-10163852.html",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Why India's lucrative help at home job market comes with a warning",
+          "url": "https://theweek.com/world-news/indias-home-help-conundrum",
+          "publishedAt": "Apr 19, 2026"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "We believe 99 percent of our value creation lies ahead: Urban Company’s Abhiraj Bhal",
+          "url": "https://www.forbesindia.com/article/leadership/we-believe-99-percent-of-our-value-creation-lies-ahead-urban-companys-abhiraj-bhal/2987350/1",
+          "publishedAt": "Sep 17, 2025"
+        },
+        {
+          "title": "Urban Company wins Startup of the Year Award | Abhiraj Singh Bhal, Varun Khaitan and Raghav Chandra",
+          "url": "https://m.economictimes.com/tech/startups/urban-company-wins-startup-of-the-year-award-abhiraj-singh-bhal-varun-khaitan-and-raghav-chandra/videoshow/124997793.cms",
+          "publishedAt": "Oct 31, 2025"
+        },
+        {
+          "title": "Urban Company’s IPO pop delivers big win for Accel, Elevation & Vy Captial",
+          "url": "https://www.thearcweb.com/article/urban-company-ipo-accel-elevation-vy-capital-2MLSDqiNhdkpQfIO",
+          "publishedAt": "Sep 16, 2025"
+        },
+        {
+          "title": "'Promise Of Future': Urban Company CEO On Rs 1,900-Crore IPO Success Post Stellar Debut",
+          "url": "https://www.ndtvprofit.com/markets/promise-of-future-urban-company-ceo-on-rs-1900-crore-ipo-success-post-stellar-debut-9298523",
+          "publishedAt": "Sep 18, 2025"
+        },
+        {
+          "title": "Urban Company soars in trading debut, hits $3 bn valuation",
+          "url": "https://www.vccircle.com/urbancompany-jumps-69-in-trading-debut-valuation-nears-3-bn",
+          "publishedAt": "Sep 17, 2025"
+        },
+        {
+          "title": "The gig economy, reimagined: Inside Urban Company’s playbook",
+          "url": "https://www.forbesindia.com/article/upfront/take-one-big-story-of-the-day/the-gig-economy-reimagined-inside-urban-companys-playbook/2987308/1",
+          "publishedAt": "Sep 17, 2025"
+        },
+        {
+          "title": "Prosus on why it backed Urban Company in a fragmented home services market",
+          "url": "https://yourstory.com/2025/09/fragmented-market-clear-tech-potential-prosus--urban-company",
+          "publishedAt": "Sep 15, 2025"
+        },
+        {
+          "title": "IPO-bound Urban Company's top earners: A glimpse into CXOs paychecks",
+          "url": "https://www.storyboard18.com/how-it-works/ipo-bound-urban-companys-top-earners-a-glimpse-into-cxos-paychecks-64711.htm",
+          "publishedAt": "May 6, 2025"
+        },
+        {
+          "title": "Abhiraj Bhal, Raghav Chandra, Varun Khaitan",
+          "url": "https://www.fortuneindia.com/people/abhiraj-bhal-raghav-chandra-varun-khaitan",
+          "publishedAt": "Apr 12, 2025"
+        },
+        {
+          "title": "Urban Company founders and investors cash out Rs 1,395 Cr in pre-IPO deals",
+          "url": "https://entrackr.com/news/urban-company-founders-and-investors-cash-out-rs-1395-cr-in-pre-ipo-deals-9014293",
+          "publishedAt": "Apr 29, 2025"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:56.867Z"
+          "fetchedAt": "2026-07-02T20:17:13.523Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:56.867Z"
+          "fetchedAt": "2026-07-02T20:17:13.523Z"
         }
       ]
     },
     {
       "slug": "acko",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "‘Ye to online company hai, Kal kuch ho jayega to office bhi nahi hai inka’ When Acko launched with zero commissions, it didn’t go down well with the insurance establishment. Agents pushed back. Regulatory complaints followed. And customers were warned:",
+          "url": "https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-acko-insurance-activity-7437444758035128322-YLue",
+          "publishedAt": "Mar 11, 2026"
+        },
+        {
+          "title": "General Atlantic-backed Indian insurer Acko eyes up to $2.5 billion valuation in IPO, sources say",
+          "url": "https://www.theinsurer.com/ti/news/general-atlantic-backed-indian-insurer-acko-eyes-up-to-25-billion-valuation-in-2026-04-27/",
+          "publishedAt": "Apr 27, 2026"
+        },
+        {
+          "title": "Acko cuts workforce amid AI-led restructuring – report",
+          "url": "https://www.lifeinsuranceinternational.com/news/acko-cuts-workforce-ai-led-restructuring/",
+          "publishedAt": "Apr 20, 2026"
+        },
+        {
+          "title": "India-baesd Acko said to raise $65m in a Series C round – Digital Insurance & CX Tech Forum 2022",
+          "url": "https://fintech.global/digitalinsurtechforum/india-baesd-acko-said-to-raise-65m-in-a-series-c-round/",
+          "publishedAt": "Mar 14, 2026"
+        },
+        {
+          "title": "Proposed commission caps may drive consolidation in insurance distribution: Acko CEO",
+          "url": "https://m.economictimes.com/tech/technology/caps-on-insurance-commission-could-spark-consolidation-acko-ceo/articleshow/131640143.cms",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "ACKO gives outgoing CMO Ashish Mishra a billboard farewell",
+          "url": "https://www.afaqs.com/news/mktg/acko-gives-outgoing-cmo-ashish-mishra-a-billboard-farewell-12117223",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Acko General Insurance Revenue 2025: $283.7M ARR",
+          "url": "https://getlatka.com/companies/acko.com",
+          "publishedAt": "Nov 24, 2025"
+        },
+        {
+          "title": "ACKO eyes September IPO filing as leadership churn lingers after CMO exit",
+          "url": "https://www.storyboard18.com/brand-marketing/acko-eyes-september-ipo-filing-as-leadership-churn-lingers-after-cmo-exit-100557.htm",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Acko IPO: Insurance Firm Said To Pick Bankers, Targets $2-$2.5 Billion Valuation",
+          "url": "https://www.ndtvprofit.com/markets/acko-ipo-insurance-firm-said-to-pick-bankers-targets-2-2-5-billion-valuation-11414316",
+          "publishedAt": "Apr 27, 2026"
+        },
+        {
+          "title": "India’s Acko targets second-half IPO at up to US$2.5bn valuation: reports",
+          "url": "https://insuranceasianews.com/indias-acko-targets-second-half-ipo-at-up-to-us2-5bn-valuation-reports/",
+          "publishedAt": "Apr 27, 2026"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "‘Every customer complaint still comes to my inbox.’ That’s how Varun Dua is building ACKO. On Young Turks Reloaded, he tells Shereen Bhan why customer obsession and not big ad spends, is ACKO’s real growth engine. ‘Marketing isn’t about being loud… i",
+          "url": "https://www.linkedin.com/posts/cnbc-tv18_every-customer-complaint-still-comes-to-activity-7440752573835530240-8LW0",
+          "publishedAt": "Mar 20, 2026"
+        },
+        {
+          "title": "Proposed commission caps may drive consolidation in insurance distribution: Acko CEO",
+          "url": "https://m.economictimes.com/tech/technology/caps-on-insurance-commission-could-spark-consolidation-acko-ceo/articleshow/131640143.cms",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Highly regulated. Capital intensive. Dominated by legacy insurers. Why would anyone start an insurance company in India? In 2016, Varun Dua did exactly that. Launching Acko in one of the toughest sectors to crack. So what made him take the leap? On Youn",
+          "url": "https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-acko-fintech-activity-7437094119208026113-qclB",
+          "publishedAt": "Mar 10, 2026"
+        },
+        {
+          "title": "‘ACKO will be one of the most profitable insurance companies India has seen’: Varun Dua bets big on D2C model",
+          "url": "https://www.cnbctv18.com/business/startup/acko-will-be-one-of-the-most-profitable-insurance-companies-india-has-seen-varun-dua-bets-big-on-d2c-model-ws-l-19870162.htm",
+          "publishedAt": "Mar 17, 2026"
+        },
+        {
+          "title": "Federal-Mogul Goetze Shareholders Approve Appointment of Varun Dua as Non-Executive Director",
+          "url": "https://scanx.trade/stock-market-news/companies/federal-mogul-goetze-shareholders-approve-appointment-of-varun-dua-as-non-executive-director/36098348",
+          "publishedAt": "Mar 26, 2026"
+        },
+        {
+          "title": "‘Don't go there. Nobody will help you if there's a claim’ ‘Ye to online company hai, Kal kuch ho jayega to office bhi nahi hai inka’ That’s the challenge Varun Dua faced while building Acko. The company’s philosophy was simple: ‘We want to own the customer.",
+          "url": "https://www.linkedin.com/posts/cnbc-tv18_dont-go-there-nobody-will-help-you-if-activity-7437728307024011264-B7XA",
+          "publishedAt": "Mar 11, 2026"
+        },
+        {
+          "title": "Coverfox Insurance Key People 2026 – Founders, CEO & CXOs",
+          "url": "https://inc42.com/company/coverfox/people/",
+          "publishedAt": "Nov 30, 2025"
+        },
+        {
+          "title": "Acko plans confidential IPO filing to raise $250 million; targets $2.5 billion valuation",
+          "url": "https://m.economictimes.com/tech/technology/acko-plans-confidential-ipo-filing-to-raise-250-million-targets-2-5-billion-valuation/articleshow/130545681.cms",
+          "publishedAt": "Apr 27, 2026"
+        },
+        {
+          "title": "Shark Tank India 3 – Watch how Varun Dua smartly reacted when a pitcher made a false claim about travel and lifestyle industry",
+          "url": "https://www.ottplay.com/news/shark-tank-india-3-watch-how-varun-dua-smartly-reacted-when-a-pitcher-made-a-false-claim-about-travel-and-lifestyle-industry/bd213a1880783",
+          "publishedAt": "Feb 17, 2024"
+        },
+        {
+          "title": "Shark Tank India Season 4: Acko founder Varun Dua says his parents have replaced sugar with jaggery",
+          "url": "https://indianexpress.com/article/lifestyle/food-wine/shark-tank-india-season-4-acko-founder-varun-dua-parents-have-replaced-sugar-with-jaggery-benefits-experts-9776524/",
+          "publishedAt": "Mar 3, 2025"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:57.134Z"
+          "fetchedAt": "2026-07-02T20:17:16.813Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:57.134Z"
+          "fetchedAt": "2026-07-02T20:17:16.813Z"
         }
       ]
     },
     {
       "slug": "nobroker",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "The ₹100 hack that built NoBroker",
+          "url": "https://nextbigwhat.com/the-%E2%82%B9100-hack-that-built-nobroker/",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "NoBroker Series D · $50M raised · (2019)",
+          "url": "https://www.startuphub.ai/investment_rounds/nobroker-series-d-2019",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Revolutionizing Relocation: How NoBroker Packers and Movers Are Transforming the Moving Experience in India",
+          "url": "https://www.devdiscourse.com/article/business/3942884-revolutionizing-relocation-how-nobroker-packers-and-movers-are-transforming-the-moving-experience-in-india",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Discover the inspiring story behind NoBroker.com, India’s revolutionary real estate tech startup that disrupted the property market by eliminating brokers. In this behind-the-scenes video, hear firsthand accounts of early challenges—including attacks from angry",
+          "url": "https://www.linkedin.com/posts/analytics-india-magazine_discover-the-inspiring-story-behind-nobrokercom-activity-7381656774300504064-uOLx",
+          "publishedAt": "Oct 8, 2025"
+        },
+        {
+          "title": "No More Traditional Interiors: NoBroker Interiors Is Shaping Homes With Tech and Transparency",
+          "url": "https://www.business-standard.com/content/press-releases-ani/no-more-traditional-interiors-nobroker-interiors-is-shaping-homes-with-tech-and-transparency-126061600374_1.html",
+          "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "How many employees work at NoBrokerHood?",
+          "url": "https://www.reveliolabs.com/companies/nobrokerhood/employees/",
+          "publishedAt": "Apr 6, 2026"
+        },
+        {
+          "title": "NoBroker Revenue, Valuation & Funding History (2024)",
+          "url": "https://getlatka.com/companies/nobroker.in",
+          "publishedAt": "Nov 24, 2025"
+        },
+        {
+          "title": "Beyond rentals: How NoBroker is building its AI engine with ConvoZen",
+          "url": "https://entrepreneur.economictimes.indiatimes.com/news/beyond-rentals-how-nobroker-is-building-its-ai-engine/129094346",
+          "publishedAt": "Mar 10, 2026"
+        },
+        {
+          "title": "NoBroker - 2026 Funding Rounds & List of Investors",
+          "url": "https://tracxn.com/d/companies/nobroker/__P5szSU2_yUD6zK8XvpxxDC27tnywWrQ0ruK7T7Uy3xE/funding-and-investors",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "NoBroker.com appoints Mitrabinda Mishra as the GM-HR",
+          "url": "https://www.hrkatha.com/people/movement/nobroker-com-appoints-mitrabinda-mishra-as-the-gm-hr/",
+          "publishedAt": "3 weeks ago"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "Beyond rentals: How NoBroker is building its AI engine with ConvoZen",
+          "url": "https://entrepreneur.economictimes.indiatimes.com/news/beyond-rentals-how-nobroker-is-building-its-ai-engine/129094346",
+          "publishedAt": "Mar 10, 2026"
+        },
+        {
+          "title": "Celebrating Innovation: Global Business Achievers Awards 2026",
+          "url": "https://www.aninews.in/news/business/celebrating-innovation-global-business-achievers-awards-202620260330180355",
+          "publishedAt": "Mar 30, 2026"
+        },
+        {
+          "title": "NoBroker.com Raises USD $51 million in Series C Funding led by General Atlantic",
+          "url": "https://www.generalatlantic.com/media-article/nobroker-com-raises-usd-51-million-in-series-c-funding-led-by-general-atlantic/",
+          "publishedAt": "Jun 5, 2019"
+        },
+        {
+          "title": "SolarSquare wants to bring rooftop solar system to every Indian home",
+          "url": "https://techcrunch.com/2022/06/09/good-capital-chris-saccas-lowercarbon-back-indias-solarsquare/",
+          "publishedAt": "Jun 9, 2022"
+        },
+        {
+          "title": "There’s a fallacy about bachelors: NoBroker CEO",
+          "url": "https://www.fortuneindia.com/bengaluru-buzz/theres-a-fallacy-about-bachelors-nobroker-ceo/103327",
+          "publishedAt": "Jun 22, 2019"
+        },
+        {
+          "title": "NoBroker - 2026 Latest Shareholding & Valuation",
+          "url": "https://tracxn.com/d/companies/nobroker/__P5szSU2_yUD6zK8XvpxxDC27tnywWrQ0ruK7T7Uy3xE/latest-shareholding",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "Listening to customers helped real estate startup NoBroker build a business around its core offering",
+          "url": "https://yourstory.com/2021/06/100x-entrepreneur-podcast-real-estate-startup-nobroker",
+          "publishedAt": "Jun 3, 2021"
+        },
+        {
+          "title": "NoBroker turns unicorn after $210 million funding from Tiger Global, others",
+          "url": "https://m.economictimes.com/tech/startups/nobroker-turns-unicorn-after-raising-210-million-from-tiger-global-and-others/articleshow/87867103.cms",
+          "publishedAt": "Nov 23, 2021"
+        },
+        {
+          "title": "From almost a decade at a Big 4 to co-founding NoBroker, Unicorn Startup: Amit Kumar Agarwal shares his journey",
+          "url": "https://thefinancestory.com/amit-kumar-agarwal-of-nobroker-shares-the-success-story-of-indias-first-proptech-unicorn",
+          "publishedAt": "Jul 18, 2022"
+        },
+        {
+          "title": "Real estate platform NoBroker aims Rs 1,000 cr revenue in FY24: Co-founder",
+          "url": "https://www.business-standard.com/companies/news/real-estate-platform-nobroker-aims-rs-1-000-cr-revenue-in-fy24-co-founder-123082100832_1.html",
+          "publishedAt": "Aug 21, 2023"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:57.501Z"
+          "fetchedAt": "2026-07-02T20:17:20.019Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:57.501Z"
+          "fetchedAt": "2026-07-02T20:17:20.019Z"
         }
       ]
     },
     {
       "slug": "spinny",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "Used Car Study 2026: Hyundai Verna holds its value best among midsize sedans",
+          "url": "https://www.autocarindia.com/auto-features/used-car-study-2026-hyundai-verna-holds-its-value-best-among-midsize-sedans-440742",
+          "publishedAt": "9 hours ago"
+        },
+        {
+          "title": "Autocar India and Spinny Unveil Mobility Intelligence Report 2026, Revealing the Forces Reshaping Indias Used-Car Ecosystem",
+          "url": "https://m.thewire.in/article/ptiprnews/autocar-india-and-spinny-unveil-mobility-intelligence-report-2026-revealing-the-forces-reshaping-indias-used-car-ecosystem",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Spinny Introduces ‘Spinny Circle’ App To Streamline Used-Car Exchanges For New Car Dealers",
+          "url": "https://bwautoworld.com/article/spinny-introduces-spinny-circle-app-to-streamline-used-car-exchanges-for-new-car-dealers-584616",
+          "publishedAt": "Dec 23, 2025"
+        },
+        {
+          "title": "Spinny acquires Haymarket’s automotive titles in India",
+          "url": "https://www.campaignasia.com/article/spinny-acquires-haymarkets-automotive-titles-in-india/u6oh5dh8glffesotm49he356hi",
+          "publishedAt": "Feb 4, 2026"
+        },
+        {
+          "title": "Karnataka gets a God Promise: Spinny and Sachin Tendulkar make car selling simpler, fairer, and more trustworthy",
+          "url": "https://indiaeducationdiary.in/karnataka-gets-a-god-promise-spinny-and-sachin-tendulkar-make-car-selling-simpler-fairer-and-more-trustworthy/",
+          "publishedAt": "6 days ago"
+        },
+        {
+          "title": "Spinny launches new app to streamline used-car exchanges for new car dealers",
+          "url": "https://auto.economictimes.indiatimes.com/news/aftermarket/spinny-launches-spinny-circle-app-to-revolutionize-used-car-exchanges-for-dealers/126121579",
+          "publishedAt": "Dec 22, 2025"
+        },
+        {
+          "title": "Spinny Ranked #1 in India's Fastest-Growing Companies 2026 by TIME and Statista",
+          "url": "https://www.prnewswire.com/in/news-releases/spinny-ranked-1-in-indias-fastest-growing-companies-2026-by-time-and-statista-302693427.html",
+          "publishedAt": "Feb 20, 2026"
+        },
+        {
+          "title": "Used-car buyers drive India's mobility shift, with first-time owners powering market growth: Autocar India-Spinny report",
+          "url": "https://www.aninews.in/news/business/used-car-buyers-drive-indias-mobility-shift-with-first-time-owners-powering-market-growth-autocar-india-spinny-report20260627095523",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "Nissan launches 55-minute vehicle exchange programme with Spinny",
+          "url": "https://www.indiatoday.in/auto/cars/story/nissan-launches-55-minute-vehicle-exchange-programme-with-spinny-2884757-2026-03-20",
+          "publishedAt": "Mar 20, 2026"
+        },
+        {
+          "title": "Global creator KSI partners with Spinny for fan-first experiences during India tour",
+          "url": "https://www.adgully.com/post/12202/global-creator-ksi-partners-with-spinny-for-fan-first-experiences-during-india-tour",
+          "publishedAt": "Feb 13, 2026"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "Police raid Double Down Bar Operator’s House, Seize Vehicles",
+          "url": "https://avenuemail.in/police-raid-double-down-bar-operators-house-seize-vehicles/",
+          "publishedAt": "17 hours ago"
+        },
+        {
+          "title": "Spinny - 2026 Latest Shareholding & Valuation",
+          "url": "https://tracxn.com/d/companies/spinny/__XPTRjqAEv0ME2UC43GvO_tx0bNL9tbZO0XYHhRF0oWE/latest-shareholding",
+          "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "East Singhbhum police suspend four cops over bar clash death in Jamshedpur",
+          "url": "https://timesofindia.indiatimes.com/city/ranchi/east-singhbhum-police-suspend-four-cops-over-bar-clash-death-in-jamshedpur/articleshow/132096620.cms",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Transporter fires shot during midnight altercation in Dumas",
+          "url": "https://timesofindia.indiatimes.com/city/surat/transporter-fires-shot-during-midnight-altercation-in-dumas/articleshow/124508844.cms",
+          "publishedAt": "Oct 12, 2025"
+        },
+        {
+          "title": "Bravo Cricket Academy Cruise to Back-to-Back Wins Under Coach Niraj Singh",
+          "url": "https://cricketgraph.com/bravo-cricket-academy-cruise-to-back-to-back-wins-under-coach-niraj-singh/",
+          "publishedAt": "Nov 29, 2025"
+        },
+        {
+          "title": "Multimodal action of phosphodiesterase 5 inhibitors against neurodegenerative disorders: An update review",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jbt.70021",
+          "publishedAt": "Oct 18, 2024"
+        },
+        {
+          "title": "From security guard to Rs 400 crore industrialist, meet Neeraj Singh who now enters Bihar poll arena from...",
+          "url": "https://www.moneycontrol.com/news/india/from-security-guard-to-rs-400-crore-industrialist-meet-neeraj-singh-who-now-enters-bihar-poll-arena-from-sheohar-13616790.html",
+          "publishedAt": "Oct 15, 2025"
+        },
+        {
+          "title": "Spinny gets WestBridge backing, expands round to $170 million",
+          "url": "https://www.thearcweb.com/article/spinny-westbridge-accel-niraj-singh-tendulkar-llrRJVyTaW3NXI2d",
+          "publishedAt": "Jun 13, 2025"
+        },
+        {
+          "title": "National Selection Trials: Tilottama, Niraj win 50m 3-Positions; Rajkanwar Singh tops 25m Rapid Fire Pistol",
+          "url": "https://www.aninews.in/news/sports/others/national-selection-trials-tilottama-niraj-win-50m-3-positions-rajkanwar-singh-tops-25m-rapid-fire-pistol20260120195547",
+          "publishedAt": "Jan 20, 2026"
+        },
+        {
+          "title": "Rearview mirror, lost alignment and a leap of faith: How Spinny emerged as a dark horse",
+          "url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/rearview-mirror-lost-alignment-and-a-leap-of-faith-how-spinny-emerged-as-a-dark-horse/85135/1",
+          "publishedAt": "May 24, 2023"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:57.808Z"
+          "fetchedAt": "2026-07-02T20:17:22.915Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:57.808Z"
+          "fetchedAt": "2026-07-02T20:17:22.915Z"
         }
       ]
     },
     {
       "slug": "xpressbees",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "Delhivery Says India B2C Logistics Burn Cycle Is Over",
+          "url": "https://www.medianama.com/2026/05/223-no-reason-xpressbees-exist-delhiverys-sahil-barua/",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "Xpressbees Revenue 2025: $350M ARR, $1.4B Valuation",
+          "url": "https://getlatka.com/companies/xpressbees.com",
+          "publishedAt": "Nov 27, 2025"
+        },
+        {
+          "title": "XpressBees - 2026 Latest Shareholding & Valuation",
+          "url": "https://tracxn.com/d/companies/xpressbees/__DKxP1rRdFu6PD1qkXIF_1w595cRKjVa_JTZXdRFdEX4/latest-shareholding",
+          "publishedAt": "4 weeks ago"
+        },
+        {
+          "title": "Delhivery CEO Sahil Barua calls Amazon’s 3PL push “old product in new wrapper”, questions XpressBees edge",
+          "url": "https://entrackr.com/analysis/delhivery-ceo-sahil-barua-calls-amazons-3pl-push-old-product-in-new-wrapper-questions-xpressbees-edge-11847370",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "The Full List of 3 Unicorn Startups in Pune (2026)",
+          "url": "https://www.failory.com/startups/pune-unicorns",
+          "publishedAt": "Dec 1, 2025"
+        },
+        {
+          "title": "Delhivery CEO Sparks Logistics Debate With Sharp Swipe at XpressBees and Amazon’s 3PL Push",
+          "url": "https://www.logisticsinsider.in/delhivery-ceo-sparks-logistics-debate-with-sharp-swipe-at-xpressbees-and-amazons-3pl-push/",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "Teachers’ Venture Growth, the late-stage venture and growth investment arm of Ontario Teachers' Pension Plan, invests USD 80 million in Xpressbees",
+          "url": "https://www.otpp.com/en-ca/about-us/news-and-insights/2023/tvg-invests-in-xpressbees/",
+          "publishedAt": "Nov 7, 2023"
+        },
+        {
+          "title": "Xpressbees raises $300 million in funding from Blackstone, TPG, and ChrysCapital",
+          "url": "https://www.tpg.com/news-and-insights/xpressbees-raises-300-million-funding-blackstone-tpg-and",
+          "publishedAt": "Feb 9, 2022"
+        },
+        {
+          "title": "Xpressbees appoints former Blinkit executive Mohit Sardana as CEO of B2C vertical",
+          "url": "https://m.economictimes.com/tech/technology/xpressbees-appoints-former-blinkit-executive-mohit-sardana-as-ceo-of-b2c-vertical/articleshow/123781238.cms",
+          "publishedAt": "Sep 9, 2025"
+        },
+        {
+          "title": "XpressBees FY25 Loss Widened 85% To Rs 370 Cr",
+          "url": "https://www.bwdisrupt.com/article/xpressbees-fy25-loss-widened-85-to-rs-370-cr-578943",
+          "publishedAt": "Nov 10, 2025"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "Confidentiality, Guidance, and Trust Are Key Elements of an Effective Survey: Amitava Saha, DDG, NSO, Kolkata",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2224454",
+          "publishedAt": "Feb 6, 2026"
+        },
+        {
+          "title": "The Shiromoni Entrepreneurship Excellence Awards, with The Telegraph, felicitated leaders from diverse spheres",
+          "url": "https://t2online.in/events/events-1/the-shiromoni-entrepreneurship-excellence-awards--with-the-telegraph--felicitated-leaders-from-diverse-spheres/2004625",
+          "publishedAt": "Apr 13, 2026"
+        },
+        {
+          "title": "Vijay Varma Serves Style",
+          "url": "https://www.esquireindia.co.in/entertainment/the-interview/vijay-varma-serves-style",
+          "publishedAt": "Feb 25, 2026"
+        },
+        {
+          "title": "Diana Penty Keeps it Classic: 'Even If You Follow a Trend, You Can Still Make it Your Own'",
+          "url": "https://www.hollywoodreporterindia.com/lifestyle/fashion/diana-penty-keeps-it-classic-even-if-you-follow-a-trend-you-can-still-make-it-your-own",
+          "publishedAt": "Jan 1, 2026"
+        },
+        {
+          "title": "The Full List of 3 Unicorn Startups in Pune (2026)",
+          "url": "https://www.failory.com/startups/pune-unicorns",
+          "publishedAt": "Dec 1, 2025"
+        },
+        {
+          "title": "Xpressbees gets USD 80 million investment from Teachers' Venture Growth",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/xpressbees-gets-usd-80-million-investment-from-teachers-venture-growth/articleshow/105038150.cms",
+          "publishedAt": "Nov 7, 2023"
+        },
+        {
+          "title": "Xpressbees names Mohit Sardana as Chief Executive Officer – B2C",
+          "url": "https://www.medianews4u.com/xpressbees-names-mohit-sardana-as-chief-executive-officer-b2c/",
+          "publishedAt": "Sep 9, 2025"
+        },
+        {
+          "title": "Xpressbees snags $80 mn from Ontario Teachers’ arm",
+          "url": "https://www.vccircle.com/xpressbeessnags-80-mn-from-ontario-teachers-arm",
+          "publishedAt": "Nov 7, 2023"
+        },
+        {
+          "title": "Understanding PLFS 2025: A new era for India's high-frequency employment data",
+          "url": "https://m.economictimes.com/opinion/et-commentary/understanding-plfs-2025-a-new-era-for-indias-high-frequency-employment-data/articleshow/124199991.cms",
+          "publishedAt": "Sep 29, 2025"
+        },
+        {
+          "title": "COVER STORY: Gini is The Quietest Revolution in Indian Pop",
+          "url": "https://rollingstoneindia.com/gini-future-of-music-india-april-2025-cover-story/",
+          "publishedAt": "Apr 24, 2025"
+        }
+      ],
       "appRanks": []
     },
     {
       "slug": "unacademy",
-      "news": null,
-      "founderMentions": null,
+      "news": [
+        {
+          "title": "JEE 2022: Ellipse L1 | Standard Equation Of Ellipse | Unacademy JEE | IIT JEE Maths | Sameer Sir Robert Milkins (xNotwMEH1M)",
+          "url": "https://fathomjournal.org/1cbdb3db/32adc1f5qbgOd8O8a-A",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "Unacademy’s founder says startup is now worth less than $500M, confirms M&A talks",
+          "url": "https://techcrunch.com/2025/12/10/unacademys-founder-says-startup-is-now-worth-less-than-500m-confirms-ma-talks/",
+          "publishedAt": "Dec 10, 2025"
+        },
+        {
+          "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+          "url": "https://finance.yahoo.com/news/unacademy-acquired-upgrad-share-swap-171947132.html",
+          "publishedAt": "Mar 15, 2026"
+        },
+        {
+          "title": "upGrad u-turns to acquire Unacademy in 100% share swap",
+          "url": "https://thepienews.com/upgrad-u-turns-to-acquire-unacademy-in-100-share-swap/",
+          "publishedAt": "Mar 19, 2026"
+        },
+        {
+          "title": "India: Sumit Jain steps down as Unacademy test-prep CEO",
+          "url": "https://www.dealstreetasia.com/stories/sumit-jain-unacademy-482747",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "UpGrad to acquire Unacademy for Rs 2,055 crore, 90% below peak valuation",
+          "url": "https://m.economictimes.com/tech/startups/upgrad-to-acquire-unacademy-at-lower-rs-2000-crore-valuation/articleshow/130738922.cms",
+          "publishedAt": "May 4, 2026"
+        },
+        {
+          "title": "upGrad is acquiring Unacademy in an all-stock deal that signals a new phase for India’s edtech sector. CNBC-TV18’s Rachna D. tells you all about the deal! #upGradUnacademy #EdTechIndia #EdTechMerger #UnacademyAcquisition #IndiaStartups #EdTech",
+          "url": "https://www.linkedin.com/posts/cnbc-tv18_upgradunacademy-edtechindia-edtechmerger-activity-7439350851527393280-sgHx",
+          "publishedAt": "Mar 16, 2026"
+        },
+        {
+          "title": "Unacademy's $3B Crash Ends in upGrad Acquisition",
+          "url": "https://www.techbuzz.ai/articles/unacademy-s-3b-crash-ends-in-upgrad-acquisition",
+          "publishedAt": "Mar 15, 2026"
+        },
+        {
+          "title": "upGrad-Unacademy deal signals consolidation in India’s edtech ecosystem",
+          "url": "https://www.forbesindia.com/article/news/upgrad-unacademy-deal-signals-consolidation-in-indias-edtech-ecosystem/2992253/1",
+          "publishedAt": "Mar 17, 2026"
+        },
+        {
+          "title": "upGrad to Buy Unacademy: How the ‘Survived’ Unicorns are Eating Each Other",
+          "url": "https://openthemagazine.com/business/upgrad-to-buy-unacademy-how-the-survived-unicorns-are-eating-each-other",
+          "publishedAt": "Mar 16, 2026"
+        }
+      ],
+      "founderMentions": [
+        {
+          "title": "India's upGrad to acquire rival Unacademy in 100% share swap deal",
+          "url": "https://www.dealstreetasia.com/stories/upgrad-unacademy-deal-475981",
+          "publishedAt": "Mar 16, 2026"
+        },
+        {
+          "title": "In Photos: India’s big founder exits",
+          "url": "https://www.forbesindia.com/photogallery/leadership/in-photos-indias-big-founder-exits/2990606/1",
+          "publishedAt": "Jan 22, 2026"
+        },
+        {
+          "title": "'Just grow 1% every day': Unacademy's Gaurav Munjal shares lesson from Deepinder Goyal, calls him 'mentor'",
+          "url": "https://www.moneycontrol.com/news/trends/just-grow-1-every-day-unacademy-s-gaurav-munjal-shares-lesson-from-deepinder-goyal-calls-him-mentor-13646640.html",
+          "publishedAt": "Nov 1, 2025"
+        },
+        {
+          "title": "Unacademy likely to be acquired by upGrad in ₹2,055-Cr deal amid edtech valuation crash",
+          "url": "https://businessreviewlive.com/unacademy-likely-to-be-acquired-by-upgrad-in-%E2%82%B92055-cr-deal-amid-edtech-valuation-crash/",
+          "publishedAt": "May 4, 2026"
+        },
+        {
+          "title": "Unacademy co-founders Gaurav Munjal and Roman Saini to exit: Report",
+          "url": "https://entrackr.com/news/unacademy-co-founders-gaurav-munjal-and-roman-saini-to-exit-report-9313327",
+          "publishedAt": "May 28, 2025"
+        },
+        {
+          "title": "Unacademy",
+          "url": "https://www.forbes.com/profile/unacademy/",
+          "publishedAt": "Mar 26, 2018"
+        },
+        {
+          "title": "Edtech here to stay: Gaurav Munjal wades into hybrid model debate",
+          "url": "https://yourstory.com/2022/06/edtech-here-to-stay-startup-unicorn-gaurav-munjal-hybrid-twitter",
+          "publishedAt": "Jun 23, 2022"
+        },
+        {
+          "title": "Hemesh Singh, Unacademy's co-founder and CTO, moves on",
+          "url": "https://hr.economictimes.indiatimes.com/news/industry/hemesh-singh-unacademys-co-founder-and-cto-moves-on/110858525",
+          "publishedAt": "Jun 10, 2024"
+        },
+        {
+          "title": "Unacademy cofounder and CTO Hemesh Singh quits the edtech company",
+          "url": "https://www.business-standard.com/companies/start-ups/unacademy-cofounder-and-cto-hemesh-singh-quits-the-edtech-company-124060800485_1.html",
+          "publishedAt": "Jun 8, 2024"
+        },
+        {
+          "title": "Unacademy Cofounders Gaurav Munjal & Roman Saini To Exit: Report",
+          "url": "https://inc42.com/buzz/unacademy-cofounders-gaurav-munjal-roman-saini-to-exit-report/",
+          "publishedAt": "May 28, 2025"
+        }
+      ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:58.123Z"
+          "fetchedAt": "2026-07-02T20:17:30.046Z"
         },
         {
           "platform": "android",
           "rank": null,
           "rating": null,
-          "fetchedAt": "2026-07-02T19:32:58.123Z"
+          "fetchedAt": "2026-07-02T20:17:30.046Z"
         }
       ]
     }
