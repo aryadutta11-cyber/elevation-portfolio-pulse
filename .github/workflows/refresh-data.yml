@@ -1,0 +1,46 @@
+name: Refresh portfolio data
+
+on:
+  schedule:
+    # 00:30 UTC = 06:00 IST, every Monday
+    - cron: '30 0 * * 1'
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: elevation-portfolio-pulse/package-lock.json
+
+      - name: Install dependencies
+        working-directory: elevation-portfolio-pulse
+        run: npm ci
+
+      - name: Refresh data
+        working-directory: elevation-portfolio-pulse
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: npm run refresh-data
+
+      - name: Commit and push if data changed
+        working-directory: elevation-portfolio-pulse
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- data/portfolio.json; then
+            git add data/portfolio.json
+            git commit -m "chore: weekly portfolio data refresh"
+            git push
+          else
+            echo "No data changes, skipping commit."
+          fi
