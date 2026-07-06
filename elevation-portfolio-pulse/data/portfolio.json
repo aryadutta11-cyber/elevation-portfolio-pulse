@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T08:01:55.295Z",
+  "generatedAt": "2026-07-06T04:51:28.752Z",
   "companies": [
     {
       "slug": "swiggy",
@@ -7,97 +7,102 @@
         {
           "title": "Amazon’s Rapid Delivery Push Triggers $15 Billion Rout for Eternal, Swiggy",
           "url": "https://www.bloomberg.com/news/articles/2026-06-29/amazon-s-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy",
-          "publishedAt": "3 days ago"
+          "publishedAt": "6 days ago"
+        },
+        {
+          "title": "CXO Moves: Exec movements across Meta, HUL, Swiggy Instamart, Bajaj Electricals, Affle and more",
+          "url": "https://www.storyboard18.com/brand-makers/cxo-moves-exec-movements-across-meta-hul-swiggy-instamart-bajaj-electricals-affle-and-more-103189.htm",
+          "publishedAt": "2 hours ago"
+        },
+        {
+          "title": "Swiggy launches 'Late Night Eats' in 30 cities: What is it and all details",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/swiggy-launches-late-night-eats-in-30-cities-what-is-it-and-all-details/articleshow/132163519.cms",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Karnataka HC Directs Swiggy, Zomato, Zepto To Deposit Gig Worker Welfare Fee — What We Know So Far",
+          "url": "https://www.ndtvprofit.com/business/karnataka-hc-directs-swiggy-zomato-zepto-to-deposit-gig-worker-welfare-fee-what-we-know-so-far-11730678",
+          "publishedAt": "12 hours ago"
         },
         {
           "title": "Shopping without searching: The Agentic AI future Amazon, Swiggy and Zepto are building in India",
           "url": "https://m.economictimes.com/magazines/panache/shopping-without-searching-the-agentic-ai-future-amazon-swiggy-and-zepto-are-building-in-india/articleshow/132137378.cms",
-          "publishedAt": "9 hours ago"
-        },
-        {
-          "title": "Swiggy Dineout Partners Apsara To Launch PlayPad For Young Diners",
-          "url": "https://everythingexperiential.com/article/swiggy-dineout-partners-apsara-to-launch-playpad-for-young-diners-613042",
-          "publishedAt": "11 hours ago"
-        },
-        {
-          "title": "Restaurant Waiting Time Turns Creative as Apsara and Swiggy Dineout Launch PlayPad",
-          "url": "https://www.prittleprattlenews.com/lifestyle/apsara-swiggy-dineout-playpad-screen-free-dining/",
-          "publishedAt": "9 hours ago"
-        },
-        {
-          "title": "Amazon push into quick commerce wipes $15 billion off Swiggy, Eternal valuations",
-          "url": "https://www.storyboard18.com/brand-makers/amazon-push-into-quick-commerce-wipes-15-billion-off-swiggy-eternal-valuations-102667.htm",
-          "publishedAt": "3 days ago"
-        },
-        {
-          "title": "Amazon’s rapid delivery push triggers $15-billion rout for Eternal, Swiggy",
-          "url": "https://www.thehindubusinessline.com/markets/amazons-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy/article71160325.ece",
           "publishedAt": "3 days ago"
         },
         {
           "title": "Kotak retains 'Buy' on Eternal, Swiggy; says Blinkit remains best placed in quick commerce",
           "url": "https://entrackr.com/news/kotak-retains-buy-on-eternal-swiggy-says-blinkit-remains-best-placed-in-quick-commerce-12122745",
-          "publishedAt": "1 day ago"
-        },
-        {
-          "title": "Swiggy Stock Leads 3 Indian Cash Flow Picks Trading Below Estimated Fair Value",
-          "url": "https://simplywall.st/stocks/in/transportation/nse-mahlog/mahindra-logistics-shares/news/swiggy-stock-leads-3-indian-cash-flow-picks-trading-below-es",
-          "publishedAt": "3 days ago"
-        },
-        {
-          "title": "Swiggy Instamart names Gautam Swaroop CBO after top-level exits",
-          "url": "https://www.cnbctv18.com/business/companies/swiggy-instamart-names-gautam-swaroop-cbo-after-top-level-exits-19937274.htm",
-          "publishedAt": "10 hours ago"
-        },
-        {
-          "title": "Swiggy-owned Instamart appoints Gautam Swaroop as Chief Business Officer",
-          "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/swiggy-owned-instamart-appoints-gautam-swaroop-as-chief-business-officer/132112546",
-          "publishedAt": "1 day ago"
-        },
-        {
-          "title": "Swiggy Dineout and Apsara launch PlayPad to make dining experiences more engaging",
-          "url": "https://www.impactonnet.com/more-from-impact/swiggy-dineout-and-apsara-launch-playpad-to-make-dining-experiences-more-engaging-15188.html",
-          "publishedAt": "7 hours ago"
-        },
-        {
-          "title": "Swiggy quick-commerce investments drag profitability, says Prosus",
-          "url": "https://www.moneycontrol.com/news/business/startup/swiggy-quick-commerce-investments-drag-profitability-says-prosus-13961101.html",
-          "publishedAt": "3 days ago"
-        },
-        {
-          "title": "Swiggy hits new all-time low, down 8% in June; JM Financial lowers target",
-          "url": "https://www.business-standard.com/markets/news/swiggy-hits-new-all-time-low-down-8-in-june-jm-financial-lowers-target-price-126063000294_1.html",
-          "publishedAt": "2 days ago"
-        },
-        {
-          "title": "Rapido’s Ownly is a serious risk to Zomato-Swiggy duopoly",
-          "url": "https://www.themorningcontext.com/internet/rapidos-ownly-is-a-serious-risk-to-zomato-swiggy-duopoly",
           "publishedAt": "4 days ago"
         },
         {
-          "title": "Marketing Matters: How Swiggy delivered real-time relevance",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/marketing-matters-how-swiggy-delivered-real-time-relevance/132082758",
-          "publishedAt": "2 days ago"
+          "title": "Amazon’s rapid delivery push triggers $15 billion rout for Eternal, Swiggy",
+          "url": "https://www.msn.com/en-us/money/companies/amazon-s-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy/ar-AA26OggO",
+          "publishedAt": "6 days ago"
+        },
+        {
+          "title": "Amazon and Flipkart’s Rapid Delivery Push Wipes Out $15 Billion from Competitors Eternal and Swiggy",
+          "url": "https://www.telugutimes.net/en/politics/navyandhra/amazon-and-flipkarts-rapid-delivery-push-wipes-out-15-billion-from-competitors-eternal-and-swiggy-350794.html",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "In Swiggy's Developer Community, Some are Planning Parties, Other are Prepping Meals",
+          "url": "https://analyticsindiamag.com/ai-features/in-swiggys-developer-community-some-are-planning-parties-other-are-prepping-meals",
+          "publishedAt": "1 day ago"
+        },
+        {
+          "title": "Unicommerce eSolutions shares rise up to 2.5% as firm partners with Swiggy networks to simplify B2B order processing",
+          "url": "https://www.tradingview.com/news/moneycontrol:707a64b9d094b:0-unicommerce-esolutions-shares-rise-up-to-2-5-as-firm-partners-with-swiggy-networks-to-simplify-b2b-order-processing/",
+          "publishedAt": "1 week ago"
         },
         {
           "title": "Swiggy Instamart appoints Gautam Swaroop as Chief Business Officer",
           "url": "https://www.thehindubusinessline.com/companies/swiggy-instamart-appoints-gautam-swaroop-as-chief-business-officer/article71169266.ece",
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "Karnataka HC Refuses to Stay Gig Workers Act, Orders Swiggy, Zomato, Zepto to Deposit Welfare Fee",
+          "url": "https://www.outlookbusiness.com/news/karnataka-hc-refuses-to-stay-gig-workers-act-orders-swiggy-zomato-zepto-to-deposit-welfare-fee",
           "publishedAt": "1 day ago"
         },
         {
-          "title": "Swiggy Instamart names former OYO executive Gautam Swaroop as CBO",
-          "url": "https://www.storyboard18.com/brand-makers/swiggy-instamart-appoints-gautam-swaroop-chief-business-officer-ws-l-102842.htm",
+          "title": "Swiggy hits new all-time low, down 8% in June; JM Financial lowers target",
+          "url": "https://www.business-standard.com/markets/news/swiggy-hits-new-all-time-low-down-8-in-june-jm-financial-lowers-target-price-126063000294_1.html",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "Zomato, Zepto, Swiggy, Urban Company, Porter Challenge Karnataka Gig Workers Act",
+          "url": "https://www.rediff.com/business/report/zomato-zepto-swiggy-urban-company-porter-challenge-karnataka-gig-workers-act/20260701.htm",
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "Swiggy launches Late Night Eats for India's night-shift workforce",
+          "url": "https://www.storyboard18.com/trending/swiggy-launches-late-night-eats-for-indias-night-shift-workforce-ws-l-103095.htm",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Zomato, Swiggy shares: How to play the quick commerce theme ahead of a potential Zepto IPO",
+          "url": "https://www.msn.com/en-in/money/topstories/zomato-swiggy-shares-how-to-play-the-quick-commerce-theme-ahead-of-a-potential-zepto-ipo/ar-AA27fncH?ocid=finance-verthp-feeds",
+          "publishedAt": "14 hours ago"
+        },
+        {
+          "title": "Amazon push into quick commerce wipes $15 billion off Swiggy, Eternal valuations",
+          "url": "https://www.storyboard18.com/brand-makers/amazon-push-into-quick-commerce-wipes-15-billion-off-swiggy-eternal-valuations-102667.htm",
+          "publishedAt": "6 days ago"
+        },
+        {
+          "title": "Swiggy Instamart COO Ankit Jain, CBO Hari Kumar quit amid top-level rejig",
+          "url": "https://m.economictimes.com/tech/technology/swiggy-instamart-coo-ankit-jain-cbo-hari-kumar-quit-amid-top-level-rejig/articleshow/131971358.cms",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Karnataka HC stays coercive action against Swiggy, Zomato, Zepto over Gig Workers Act",
+          "url": "https://www.thenewsminute.com/karnataka/karnataka-hc-stays-coercive-action-against-swiggy-zomato-zepto-over-gig-workers-act",
           "publishedAt": "1 day ago"
         },
         {
-          "title": "India's Swiggy posts narrower Q4 loss with strongest food delivery growth in years",
-          "url": "https://www.reuters.com/world/india/indias-swiggy-posts-narrower-quarterly-loss-2026-05-08/",
-          "publishedAt": "1 month ago"
-        },
-        {
-          "title": "Swiggy Instamart appoints Gautam Swaroop as chief business officer",
-          "url": "https://www.business-standard.com/companies/news/swiggy-instamart-appoints-gautam-swaroop-chief-business-officer-126070100305_1.html",
-          "publishedAt": "1 day ago"
+          "title": "Quick commerce is booming. So why have Blinkit and Swiggy shed $15 billion?",
+          "url": "https://www.business-standard.com/video-gallery/general/quick-commerce-is-booming-so-why-have-blinkit-and-swiggy-shed-15-billion-179024.htm",
+          "publishedAt": "4 days ago"
         }
       ],
       "founderMentions": [
@@ -112,13 +117,13 @@
           "publishedAt": "Apr 10, 2026"
         },
         {
-          "title": "Swiggy rejig: Co-founder Nandan Reddy to quit; Board members to shuffle",
-          "url": "https://www.moneycontrol.com/news/business/markets/swiggy-rejig-co-founder-nandan-reddy-to-quit-board-members-to-shuffle-13885657.html",
+          "title": "Swiggy shuffle: Co-founder Nandan Reddy leaves; Phani Kishan, Rahul Bothra join board",
+          "url": "https://www.thearcweb.com/article/swiggy-shuffle-cofounder-nandan-reddy-leaves-phani-kishan-rahul-bothra-join-board-z8KrPhzgjb1Y7PKB",
           "publishedAt": "Apr 10, 2026"
         },
         {
-          "title": "Swiggy cofounder Nandan Reddy steps down, may start up again",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/swiggy-cofounder-nandan-reddy-steps-down-may-start-up-again/articleshow/130176951.cms",
+          "title": "Swiggy rejig: Co-founder Nandan Reddy to quit; Board members to shuffle",
+          "url": "https://www.moneycontrol.com/news/business/markets/swiggy-rejig-co-founder-nandan-reddy-to-quit-board-members-to-shuffle-13885657.html",
           "publishedAt": "Apr 10, 2026"
         },
         {
@@ -127,18 +132,23 @@
           "publishedAt": "Apr 10, 2026"
         },
         {
+          "title": "Swiggy cofounder Nandan Reddy steps down, may start up again",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/swiggy-cofounder-nandan-reddy-steps-down-may-start-up-again/articleshow/130176951.cms",
+          "publishedAt": "Apr 10, 2026"
+        },
+        {
           "title": "Swiggy co-founder Nandan Reddy steps down as board sees key changes",
           "url": "https://www.business-standard.com/companies/people/swiggy-co-founder-nandan-reddy-steps-down-as-board-sees-key-changes-126041001086_1.html",
           "publishedAt": "Apr 10, 2026"
         },
         {
-          "title": "Swiggy cofounder Nandan Reddy quits",
-          "url": "https://indiantelevision.com/mam/swiggy-cofounder-nandan-reddy-quits/",
+          "title": "Swiggy co-founder Nandan Reddy steps down; board revamp underway",
+          "url": "https://www.cnbctv18.com/market/swiggy-co-founder-nandan-reddy-steps-down-board-revamp-underway-ws-l-19884970.htm",
           "publishedAt": "Apr 10, 2026"
         },
         {
-          "title": "Swiggy co-founder Nandan Reddy steps down; board revamp underway",
-          "url": "https://www.cnbctv18.com/market/swiggy-co-founder-nandan-reddy-steps-down-board-revamp-underway-ws-l-19884970.htm",
+          "title": "Swiggy cofounder Nandan Reddy quits",
+          "url": "https://indiantelevision.com/mam/swiggy-cofounder-nandan-reddy-quits/",
           "publishedAt": "Apr 10, 2026"
         },
         {
@@ -156,14 +166,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.45572,
-          "fetchedAt": "2026-07-03T08:01:49.605Z"
+          "rating": 4.45537,
+          "fetchedAt": "2026-07-06T04:51:03.886Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.5030727,
-          "fetchedAt": "2026-07-03T08:01:49.605Z"
+          "rating": 4.5024652,
+          "fetchedAt": "2026-07-06T04:51:03.886Z"
         }
       ]
     },
@@ -171,116 +181,116 @@
       "slug": "paytm",
       "news": [
         {
+          "title": "Paytm Europe wins CSSF payment institution licence",
+          "url": "https://www.electronicpaymentsinternational.com/news/paytm-europe-wins-cssf-payment-institution-licence/",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Paytm Unit Paytm Europe Granted Payment Institution Licence Effective July 02, 2026",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN435003:0-paytm-unit-paytm-europe-granted-payment-institution-licence-effective-july-02-2026/",
+          "publishedAt": "2 days ago"
+        },
+        {
           "title": "PAYTM: Upcoming Board Decisions And Teen Payment Push Will Support Upside",
           "url": "https://simplywall.st/community/narratives/in/diversified-financials/nse-paytm/one97-communications-shares/kxa3ex7y-digital-payment-advances-will-drive-long-term-trends-in-financial-markets/updates/20-analysts-have-trimmed-their-fair-value-estimate-for-one97-co",
           "publishedAt": "1 week ago"
         },
         {
-          "title": "Paytm among 4 stocks that closed crossing above VWAP",
-          "url": "https://m.economictimes.com/markets/stocks/news/paytm-among-4-stocks-that-closed-crossing-above-vwap/trend-tracker/slideshow/132128324.cms",
-          "publishedAt": "16 hours ago"
+          "title": "PayTM's Europe Unit Secures Luxembourg Payment Licence To Expand Services",
+          "url": "https://www.bwdisrupt.com/article/paytm-s-europe-unit-secures-luxembourg-payment-licence-to-expand-services-613235",
+          "publishedAt": "2 days ago"
         },
         {
-          "title": "Paytm’s comeback trade gets louder as Goldman Sachs sees room for re-rating",
-          "url": "https://www.moneycontrol.com/news/business/markets/paytm-s-comeback-trade-gets-louder-as-goldman-sachs-sees-room-for-re-rating-13961457.html",
+          "title": "Paytm Europe Wins Regulatory Approval To Offer Payment Services In Luxembourg",
+          "url": "https://www.ndtvprofit.com/business/paytm-europe-wins-regulatory-approval-to-offer-payment-services-in-luxembourg-11720664",
           "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Paytm Subsidiary Receives Payments Licence From Luxembourg Authorities",
+          "url": "https://inc42.com/buzz/paytm-subsidiary-receives-payments-licence-from-luxembourg-authorities/",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Paytm Europe gets payments licence from Luxembourg regulator",
+          "url": "https://www.medianama.com/2026/07/223-paytm-europe-payments-licence-luxembourg-regulator/",
+          "publishedAt": "2 days ago"
         },
         {
           "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
           "url": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
-          "publishedAt": "3 weeks ago"
+          "publishedAt": "4 weeks ago"
         },
         {
-          "title": "Paytm, DLF, L&T Finance among top stock picks by Ajit Mishra; here's why",
-          "url": "https://www.business-standard.com/markets/news/paytm-dlf-l-t-finance-among-top-stock-picks-by-ajit-mishra-here-s-why-126070200091_1.html",
-          "publishedAt": "19 hours ago"
+          "title": "Paytm secures Luxembourg payment licence to expand regulated services in Europe",
+          "url": "https://www.storyboard18.com/brand-marketing/paytm-secures-luxembourg-payment-licence-to-expand-regulated-services-in-europe-103071.htm",
+          "publishedAt": "2 days ago"
         },
         {
-          "title": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping",
-          "url": "https://www.reuters.com/world/india/indias-paytm-slumps-7-after-rbi-cancels-banking-licence-its-payments-bank-2026-04-27/",
-          "publishedAt": "Apr 27, 2026"
-        },
-        {
-          "title": "Goldman Sachs: Paytm Set for Growth with Strategic Market Moves",
-          "url": "https://www.devdiscourse.com/article/business/3942290-goldman-sachs-paytm-set-for-growth-with-strategic-market-moves",
-          "publishedAt": "3 days ago"
-        },
-        {
-          "title": "What Paytm’s licence loss means for banks in India",
-          "url": "https://www.thebanker.com/content/d3f16a13-4b82-4298-a8b3-5a222f4676b1",
-          "publishedAt": "1 month ago"
-        },
-        {
-          "title": "India's Paytm forecasts higher revenue growth in FY 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/indian-fintech-firm-paytm-posts-150007444.html",
-          "publishedAt": "May 6, 2026"
-        },
-        {
-          "title": "Paytm Plans 4,000 Hires As Fintech Rebuild Gains Momentum",
-          "url": "https://www.gurufocus.com/news/8907314/paytm-plans-4000-hires-as-fintech-rebuild-gains-momentum?mobile=true",
-          "publishedAt": "3 weeks ago"
-        },
-        {
-          "title": "India’s Paytm plans 10% staff boost in AI pivot with some roles cut",
-          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/indias-paytm-plans-10-staff-boost-ai-pivot-some-roles-cut",
-          "publishedAt": "3 weeks ago"
-        },
-        {
-          "title": "Paytm Payments Bank Folding After Loss of License",
-          "url": "https://www.pymnts.com/legal/bank-regulation/2026/paytm-payments-bank-folding-after-loss-of-license/",
-          "publishedAt": "Apr 26, 2026"
+          "title": "Paytm Europe granted licence by Luxembourg financial authority for credit, funds transfer, payments — Here's all we know",
+          "url": "https://www.livemint.com/money/personal-finance/paytm-europe-grant-payment-institution-licence-luxembourg-financial-supervisory-authority-money-credit-fund-transactions-11783069467728.html",
+          "publishedAt": "2 days ago"
         },
         {
           "title": "Paytm launches subscription clarity tool for UPI automatic payments",
           "url": "https://timesofindia.indiatimes.com/technology/tech-news/paytm-launches-subscription-clarity-tool-for-upi-automatic-payments/articleshow/131908846.cms",
-          "publishedAt": "1 week ago"
+          "publishedAt": "2 weeks ago"
         },
         {
-          "title": "'Playing on consumers' FOMO': Why Navam Capital MD, Paytm founder are sceptical of WhatsApp usernames",
-          "url": "https://www.storyboard18.com/brand-makers/playing-on-consumers-fomo-why-navam-capital-md-paytm-founder-are-sceptical-of-whatsapp-usernames-102779.htm",
+          "title": "Paytm Europe secures payment institution licence from Luxembourg regulator",
+          "url": "https://www.cnbctv18.com/market/paytm-share-price-europe-secures-payment-institution-licence-from-luxembourg-regulator-19937803.htm",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Paytm's European arm secures payment institution licence in Luxembourg",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/paytms-european-arm-secures-payment-institution-licence-in-luxembourg/article71178133.ece",
           "publishedAt": "2 days ago"
         },
         {
-          "title": "India's central bank cancels Paytm Payments Bank licence",
-          "url": "https://www.reuters.com/world/india/indias-central-bank-cancels-paytm-payments-bank-licence-2026-04-24/",
-          "publishedAt": "Apr 24, 2026"
+          "title": "Paytm among 4 stocks that closed crossing above VWAP",
+          "url": "https://m.economictimes.com/markets/stocks/news/paytm-among-4-stocks-that-closed-crossing-above-vwap/trend-tracker/slideshow/132128324.cms",
+          "publishedAt": "4 days ago"
         },
         {
-          "title": "Paytm unit approves investment in European payments subsidiary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paytm-unit-approves-investment-european-112330966.html",
-          "publishedAt": "1 month ago"
+          "title": "Paytm’s comeback trade gets louder as Goldman Sachs sees room for re-rating",
+          "url": "https://www.moneycontrol.com/news/business/markets/paytm-s-comeback-trade-gets-louder-as-goldman-sachs-sees-room-for-re-rating-13961457.html",
+          "publishedAt": "6 days ago"
         },
         {
-          "title": "Trade Spotlight: How should you trade Paytm, Marico, Aptus Value Housing, Lodha Developers, HDFC AMC,...",
-          "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-paytm-marico-aptus-value-housing-lodha-developers-hdfc-amc-electronics-mart-india-and-others-on-july-2-13963934.html",
-          "publishedAt": "19 hours ago"
+          "title": "Paytm Plans 4,000 Hires As Fintech Rebuild Gains Momentum",
+          "url": "https://www.gurufocus.com/news/8907314/paytm-plans-4000-hires-as-fintech-rebuild-gains-momentum",
+          "publishedAt": "4 weeks ago"
         },
         {
-          "title": "Paytm Posts Fourth Straight Quarterly Profit Despite Setbacks",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/paytm-posts-fourth-straight-quarterly-profit-despite-setbacks",
-          "publishedAt": "May 6, 2026"
+          "title": "Paytm Secures Payment Institution Licence in Luxembourg",
+          "url": "https://www.equitypandit.com/paytm-secures-payment-institution-licence-in-luxembourg/",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Paytm Europe receives payment institution license from CSSF, Luxembourg",
+          "url": "https://www.business-standard.com/markets/capital-market-news/paytm-europe-receives-payment-institution-license-from-cssf-luxembourg-126070300311_1.html",
+          "publishedAt": "2 days ago"
+        },
+        {
+          "title": "Paytm's European arm secures payment institution licence in Luxembourg",
+          "url": "https://m.economictimes.com/industry/banking/finance/paytms-european-arm-secures-payment-institution-licence-in-luxembourg/articleshow/132158622.cms",
+          "publishedAt": "2 days ago"
         },
         {
           "title": "Paytm Stock And 2 Digital Payments Plays After Meta’s Cred Deal",
           "url": "https://simplywall.st/stocks/in/diversified-financials/nse-paytm/one97-communications-shares/news/paytm-stock-and-2-digital-payments-plays-after-metas-cred-de",
           "publishedAt": "1 week ago"
-        },
-        {
-          "title": "Indian fintech firm Paytm posts fourth-quarter profit on growth in core businesses",
-          "url": "https://sg.finance.yahoo.com/news/indian-fintech-firm-paytm-posts-150007589.html",
-          "publishedAt": "May 6, 2026"
         }
       ],
       "founderMentions": [
         {
           "title": "'This could be a disaster': From Ankur Warikoo to Vijay Shekhar Sharma, why India's startup leaders are wo",
           "url": "https://m.economictimes.com/news/new-updates/this-could-be-a-disaster-from-ankur-warikoo-to-vijay-shekhar-sharma-why-indias-startup-leaders-are-worried-about-kunal-shahs-first-move-at-whatsapp/articleshow/132086250.cms",
-          "publishedAt": "2 days ago"
+          "publishedAt": "5 days ago"
         },
         {
           "title": "“This could be a disaster”: Ankur Warikoo, Jasveer Singh and Vijay Shekhar Sharma warn about WhatsApp use",
           "url": "https://timesofindia.indiatimes.com/technology/tech-news/this-could-be-a-disaster-ankur-warikoo-jasveer-singh-and-vijay-shekhar-sharma-warn-about-whatsapp-usernames/articleshow/132096631.cms",
-          "publishedAt": "2 days ago"
+          "publishedAt": "5 days ago"
         },
         {
           "title": "Who owns Paytm? Vijay Shekhar Sharma’s net worth and stake explained",
@@ -290,7 +300,7 @@
         {
           "title": "'AI Has Arrived In India': Vijay Shekhar Sharma Reacts To AirTrunk's $30 Billion Investment Plan",
           "url": "https://www.ndtvprofit.com/business/ai-has-arrived-in-india-paytm-founder-vijay-shekhar-sharma-reacts-to-airtrunks-30-billion-investment-plan-11595504",
-          "publishedAt": "4 weeks ago"
+          "publishedAt": "1 month ago"
         },
         {
           "title": "Paytm CEO Foresees Continued Payments Growth, Emphasizes AI",
@@ -298,9 +308,14 @@
           "publishedAt": "1 month ago"
         },
         {
-          "title": "'This should scare anyone': WhatsApp usernames spark privacy, scam fears",
-          "url": "https://www.storyboard18.com/digital/this-should-scare-anyone-whatsapp-usernames-spark-privacy-scam-fears-102754.htm",
-          "publishedAt": "2 days ago"
+          "title": "India halts WhatsApp username rollout over fraud concerns",
+          "url": "https://www.msn.com/en-in/news/insight/india-to-review-whatsapp-usernames-amid-fraud-concerns/gm-GME3085A3C?gemSnapshotKey",
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "'This could be a disaster': From Ankur Warikoo to…",
+          "url": "https://www.inkl.com/news/this-could-be-a-disaster-from-ankur-warikoo-to-vijay-shekhar-sharma-why-indias-startup-leaders-are-worried-about-kunal-shahs-first-move-at-whatsapp",
+          "publishedAt": "6 days ago"
         },
         {
           "title": "Paytm's pivotal year: How Vijay Shekhar Sharma steered Indian fintech's boldest turnaround story",
@@ -308,38 +323,33 @@
           "publishedAt": "1 month ago"
         },
         {
-          "title": "'Playing on consumers' FOMO': Why Navam Capital MD, Paytm founder are sceptical of WhatsApp usernames",
-          "url": "https://www.storyboard18.com/brand-makers/playing-on-consumers-fomo-why-navam-capital-md-paytm-founder-are-sceptical-of-whatsapp-usernames-102779.htm",
-          "publishedAt": "2 days ago"
-        },
-        {
-          "title": "Paytm plans 10% staff increase in AI pivot, to lay off 400",
-          "url": "https://entrepreneur.economictimes.indiatimes.com/news/paytm-plans-10-staff-increase-in-ai-pivot-to-lay-off-400/131613629",
-          "publishedAt": "3 weeks ago"
-        },
-        {
           "title": "'Bottomless profit pool': Paytm founder Vijay Shekhar Sharma asks how Big Tech cracked advertising",
           "url": "https://www.storyboard18.com/brand-makers/bottomless-profit-pool-paytm-founder-vijay-shekhar-sharma-asks-how-big-tech-cracked-advertising-99730.htm",
           "publishedAt": "1 month ago"
         },
         {
-          "title": "Paytm Becomes ‘Indian Owned & Controlled’ as Foreign Stake Falls Below 50%",
-          "url": "https://www.outlookbusiness.com/corporate/paytm-becomes-indian-owned-controlled-as-foreign-stake-falls-below-50",
-          "publishedAt": "Apr 15, 2026"
+          "title": "Paytm plans 10% staff increase in AI pivot, to lay off 400",
+          "url": "https://entrepreneur.economictimes.indiatimes.com/news/paytm-plans-10-staff-increase-in-ai-pivot-to-lay-off-400/131613629",
+          "publishedAt": "4 weeks ago"
+        },
+        {
+          "title": "'This should scare anyone': WhatsApp usernames spark privacy, scam fears",
+          "url": "https://www.storyboard18.com/digital/this-should-scare-anyone-whatsapp-usernames-spark-privacy-scam-fears-102754.htm",
+          "publishedAt": "5 days ago"
         }
       ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.652,
-          "fetchedAt": "2026-07-03T08:01:50.463Z"
+          "rating": 4.65198,
+          "fetchedAt": "2026-07-06T04:51:06.726Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.654996,
-          "fetchedAt": "2026-07-03T08:01:50.463Z"
+          "rating": 4.654768,
+          "fetchedAt": "2026-07-06T04:51:06.726Z"
         }
       ]
     },
@@ -347,59 +357,59 @@
       "slug": "makemytrip",
       "news": [
         {
-          "title": "[Form 4] MakeMyTrip Ltd Insider Trading Activity",
-          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-eb9ea7b41c64.html",
-          "publishedAt": "5 hours ago"
+          "title": "Why MakeMyTrip (MMYT) Is Up 9.2% After Major Equity And Convertible Notes Raise And Incentive Shift",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mmyt/makemytrip/news/why-makemytrip-mmyt-is-up-92-after-major-equity-and-converti",
+          "publishedAt": "2 hours ago"
         },
         {
-          "title": "MakeMyTrip (MMYT) Stock May Look Fully Priced As Earnings Expectations Stay High",
-          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mmyt/makemytrip/news/makemytrip-mmyt-stock-may-look-fully-priced-as-earnings-expe",
-          "publishedAt": "19 hours ago"
+          "title": "Price to sales forward of MakeMyTrip Limited – NASDAQ:MMYT",
+          "url": "https://www.tradingview.com/symbols/NASDAQ-MMYT/financials-statistics-and-ratios/price-sales-fwd/",
+          "publishedAt": "16 hours ago"
+        },
+        {
+          "title": "MMYT SEC Filings - Makemytrip Limited Mauritius 10-K, 10-Q, 8-K Forms",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/page-5.html",
+          "publishedAt": "16 hours ago"
+        },
+        {
+          "title": "How Makemytrip Limited (MMYT) Affects Rotational Strategy Timing",
+          "url": "https://news.stocktradersdaily.com/news_release/101/How_Makemytrip_Limited_MMYT_Affects_Rotational_Strategy_Timing_070526055402_1783245242.html",
+          "publishedAt": "23 hours ago"
         },
         {
           "title": "MakeMyTrip and Cleartrip Both Just Launched Creator Programs. The Models Are Different — For Now",
           "url": "https://skift.com/2026/06/29/makemytrip-and-cleartrip-both-just-launched-creator-programs-the-models-are-different-for-now/",
-          "publishedAt": "3 days ago"
-        },
-        {
-          "title": "MakeMyTrip (MMYT) CEO Rajesh Magow receives 56,576 RSU awards",
-          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-a983623bad3b.html",
-          "publishedAt": "5 hours ago"
+          "publishedAt": "6 days ago"
         },
         {
           "title": "MakeMyTrip (MMYT) Advances While Market Declines: Some Information for Investors",
           "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-advances-while-market-220004083.html",
-          "publishedAt": "5 days ago"
+          "publishedAt": "1 week ago"
         },
         {
           "title": "MakeMyTrip Ltd (MMYT) Stock Up 9.2% and Still Undervalued -- GF Score: 66/100",
           "url": "https://www.gurufocus.com/news/8942031/makemytrip-ltd-mmyt-stock-up-92-and-still-undervalued-gf-score-66100",
-          "publishedAt": "20 hours ago"
-        },
-        {
-          "title": "Goldman Sachs raises MakeMyTrip stock price target to $84 on growth outlook",
-          "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-makemytrip-stock-price-target-to-84-on-growth-outlook-93CH-4764037",
-          "publishedAt": "5 days ago"
-        },
-        {
-          "title": "Enterprise value to revenue forward of MakeMyTrip Ltd. – GETTEX:MY1",
-          "url": "https://www.tradingview.com/symbols/GETTEX-MY1/financials-statistics-and-ratios/enterprise-value-sales-fwd/",
           "publishedAt": "4 days ago"
+        },
+        {
+          "title": "Indians opting to give online travel ‘Shagun’ this wedding season: MakeMyTrip",
+          "url": "https://travel.economictimes.indiatimes.com/news/research-and-statistics/research/indians-opting-to-give-online-travel-shagun-this-wedding-season-makemytrip/98425929?next=1",
+          "publishedAt": "1 day ago"
         },
         {
           "title": "MakeMyTrip: Temporary Travel Pressure Does Not Break The Buy Case (NASDAQ:MMYT)",
           "url": "https://seekingalpha.com/article/4916865-makemytrip-temporary-travel-pressure-does-not-break-the-buy-case",
-          "publishedAt": "1 week ago"
+          "publishedAt": "2 weeks ago"
         },
         {
-          "title": "Travel on recovery road as war cloud clears and oil dips: MakeMyTrip group CEO",
-          "url": "https://m.economictimes.com/tech/technology/travel-on-recovery-road-as-war-cloud-clears-and-oil-dips-makemytrip-group-ceo/articleshow/132057286.cms",
+          "title": "MakeMyTrip (MMYT) CEO Rajesh Magow receives 56,576 RSU awards",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-a983623bad3b.html",
           "publishedAt": "3 days ago"
         },
         {
-          "title": "MakeMyTrip (MMYT) Group CFO awarded 3,906 RSUs with performance vesting",
-          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-76a698908827.html",
-          "publishedAt": "5 hours ago"
+          "title": "MakeMyTrip (MMYT) Stock May Look Fully Priced As Earnings Expectations Stay High",
+          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mmyt/makemytrip/news/makemytrip-mmyt-stock-may-look-fully-priced-as-earnings-expe",
+          "publishedAt": "4 days ago"
         },
         {
           "title": "Why MakeMyTrip (MMYT) Outpaced the Stock Market Today",
@@ -407,19 +417,19 @@
           "publishedAt": "2 weeks ago"
         },
         {
-          "title": "Enterprise value to EBITDA forward of MakeMyTrip Limited – NASDAQ:MMYT",
-          "url": "https://www.tradingview.com/symbols/NASDAQ-MMYT/financials-statistics-and-ratios/enterprise-value-ebitda-fwd/",
-          "publishedAt": "6 days ago"
+          "title": "[Form 4] MakeMyTrip Ltd Insider Trading Activity",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-eb9ea7b41c64.html",
+          "publishedAt": "3 days ago"
         },
         {
-          "title": "MakeMyTrip’s New Influencer Play: Relevance Over Reach",
-          "url": "https://skift.com/2026/06/03/makemytrips-new-influencer-play-relevance-over-reach/",
-          "publishedAt": "1 month ago"
+          "title": "MakeMyTrip (MMYT) Declines More Than Market: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-declines-more-market-220001683.html",
+          "publishedAt": "4 weeks ago"
         },
         {
-          "title": "MakeMyTrip (MMYT) director Deep Kalra granted 12,876 RSUs with performance vesting",
-          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-d6284d620bb0.html",
-          "publishedAt": "5 hours ago"
+          "title": "MakeMyTrip (MMYT) Group CFO awarded 3,906 RSUs with performance vesting",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-76a698908827.html",
+          "publishedAt": "3 days ago"
         },
         {
           "title": "MakeMyTrip Yatra Talks Put Growth Plans And Valuation In Focus",
@@ -427,45 +437,45 @@
           "publishedAt": "3 weeks ago"
         },
         {
-          "title": "MakeMyTrip (MMYT) Declines More Than Market: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-declines-more-market-220001683.html",
-          "publishedAt": "3 weeks ago"
+          "title": "MakeMyTrip (MMYT) director Deep Kalra granted 12,876 RSUs with performance vesting",
+          "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-d6284d620bb0.html",
+          "publishedAt": "3 days ago"
         },
         {
           "title": "Are Options Traders Betting on a Big Move in MakeMyTrip Stock?",
           "url": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-125000222.html",
-          "publishedAt": "3 weeks ago"
+          "publishedAt": "4 weeks ago"
         },
         {
-          "title": "MakeMyTrip (MMYT) Declines More Than Market: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-declines-more-market-220002509.html",
+          "title": "Goldman Sachs raises MakeMyTrip stock price target to $84 on growth outlook",
+          "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-makemytrip-stock-price-target-to-84-on-growth-outlook-93CH-4764037",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Analysts Maintain Bullish Views On MakeMyTrip (MMYT) Despite Geopolitical Headwinds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-maintain-bullish-views-makemytrip-103113434.html",
           "publishedAt": "1 month ago"
-        },
-        {
-          "title": "MakeMyTrip (MMYT) Stock Could Be 33.6% Undervalued As AI Growth Narrative Builds",
-          "url": "https://simplywall.st/stocks/us/consumer-services/nasdaq-mmyt/makemytrip/news/makemytrip-mmyt-stock-could-be-336-undervalued-as-ai-growth",
-          "publishedAt": "2 weeks ago"
         }
       ],
       "founderMentions": [
         {
           "title": "MakeMyTrip (MMYT) director Deep Kalra granted 12,876 RSUs with performance vesting",
           "url": "https://www.stocktitan.net/sec-filings/MMYT/form-4-make-my-trip-ltd-insider-trading-activity-d6284d620bb0.html",
-          "publishedAt": "5 hours ago"
+          "publishedAt": "3 days ago"
         }
       ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.77672,
-          "fetchedAt": "2026-07-03T08:01:51.028Z"
+          "rating": 4.77684,
+          "fetchedAt": "2026-07-06T04:51:09.696Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.4865723,
-          "fetchedAt": "2026-07-03T08:01:51.028Z"
+          "rating": 4.486072,
+          "fetchedAt": "2026-07-06T04:51:09.696Z"
         }
       ]
     },
@@ -475,47 +485,7 @@
         {
           "title": "Q1 Preview: BoFA Picks Meesho, Eternal As Top New-Age Internet Bets Amid Middle East Conflict Risks",
           "url": "https://www.ndtvprofit.com/markets/q1-preview-bofa-picks-meesho-eternal-as-top-bets-despite-middle-east-conflict-risks-11717229",
-          "publishedAt": "11 hours ago"
-        },
-        {
-          "title": "India’s Meesho to acquire B2B commerce platform Kirana Club",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/india-meesho-acquire-b2b-commerce-102322579.html",
-          "publishedAt": "2 weeks ago"
-        },
-        {
-          "title": "Eternal, Meesho, Other Consumer Tech Unicorns Challenge Karnataka’s Gig Worker Law",
-          "url": "https://inc42.com/buzz/eternal-meesho-other-consumer-tech-unicorns-challenge-karnatakas-gig-worker-law/",
           "publishedAt": "3 days ago"
-        },
-        {
-          "title": "Meesho CHRO Ashish Kumar Singh resigns after nearly six year stint- Moneycontrol.com",
-          "url": "https://www.linkedin.com/posts/moneycontrol_meesho-chro-ashish-kumar-singh-resigns-after-activity-7475867046438678528-MH9V",
-          "publishedAt": "1 week ago"
-        },
-        {
-          "title": "Fidelity Investments sells Rs 988 crore worth shares in Meesho, Goldman Sachs buys nearly 1% stake in CMR...",
-          "url": "https://www.moneycontrol.com/news/business/markets/fidelity-investments-sells-rs-988-crore-worth-shares-in-meesho-goldman-sachs-buys-nearly-1-stake-in-cmr-green-13946409.html",
-          "publishedAt": "3 weeks ago"
-        },
-        {
-          "title": "Meesho grants 3,886 stock options under ESOP 2024 Plan",
-          "url": "https://scanx.trade/stock-market-news/companies/meesho-grants-3-886-stock-options-under-esop-2024-plan/44435667",
-          "publishedAt": "1 day ago"
-        },
-        {
-          "title": "Fidelity offloads Meesho shares worth Rs 988 Cr through block deal",
-          "url": "https://entrackr.com/news/fidelity-offloads-meesho-shares-worth-rs-988-cr-through-block-deal-12024184",
-          "publishedAt": "3 weeks ago"
-        },
-        {
-          "title": "Meesho CHRO Ashish Kumar Singh resigns after nearly six years",
-          "url": "https://www.peoplematters.in/news/business/meesho-chro-ashish-kumar-singh-resigns-after-nearly-six-years-to-support-leadership-transition-50539",
-          "publishedAt": "6 days ago"
-        },
-        {
-          "title": "Meesho Turns 11: Founder Unveils Special Film Celebrating India's E-Commerce Journey",
-          "url": "https://www.ndtvprofit.com/business/meesho-turns-11-founder-unveils-special-film-celebrating-indias-e-commerce-journey-11713884",
-          "publishedAt": "1 day ago"
         },
         {
           "title": "India's Meesho Q4 loss shrinks as order growth and margins rise",
@@ -523,19 +493,19 @@
           "publishedAt": "May 6, 2026"
         },
         {
-          "title": "New-Age Tech Stocks: Meesho, Smartworks Rally; ideaForge, EaseMyTrip Tumble",
-          "url": "https://inc42.com/buzz/new-age-tech-stocks-meesho-smartworks-rally-ideaforge-easemytrip-tumble/",
-          "publishedAt": "5 days ago"
-        },
-        {
-          "title": "Meesho stock jumps over 8% today as Citi initiates coverage with Buy rating, sees value-commerce...",
-          "url": "https://www.moneycontrol.com/news/business/markets/meesho-stock-gains-2-5-as-citi-initiates-coverage-with-buy-rating-sees-value-commerce-opportunity-13956397.html",
+          "title": "Meesho CHRO Ashish Kumar Singh resigns after nearly six year stint- Moneycontrol.com",
+          "url": "https://www.linkedin.com/posts/moneycontrol_meesho-chro-ashish-kumar-singh-resigns-after-activity-7475867046438678528-MH9V",
           "publishedAt": "1 week ago"
         },
         {
-          "title": "Five Stocks To Buy Today: Meesho, Bank Of Maharashtra, Gland Pharma, And More",
-          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-on-june-30-piramal-finance-meesho-honasa-consumer-bank-of-maharashtra-gland-pharma-11705238",
-          "publishedAt": "2 days ago"
+          "title": "India’s Meesho to acquire B2B commerce platform Kirana Club",
+          "url": "https://www.retail-insight-network.com/news/meesho-to-buy-kirana-club/",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Meesho shares rise 2% after Rs 1,540 cr block deal; Jefferies initiates coverage with Buy rating",
+          "url": "https://www.tradingview.com/news/moneycontrol:e4d0e1cbd094b:0-meesho-shares-rise-2-after-rs-1-540-cr-block-deal-jefferies-initiates-coverage-with-buy-rating/",
+          "publishedAt": "4 weeks ago"
         },
         {
           "title": "Meesho’s ₹202 Cr Question: Can It Crack India’s Kirana Code?",
@@ -543,19 +513,54 @@
           "publishedAt": "1 week ago"
         },
         {
+          "title": "Meesho, Smartworks gain; ideaForge, EaseMyTrip decline in tech stocks",
+          "url": "https://startup.economictimes.indiatimes.com/news/public-markets/meesho-smartworks-gain-ideaforge-easemytrip-decline-in-tech-stocks/132067547",
+          "publishedAt": "5 days ago"
+        },
+        {
+          "title": "Fidelity Investments sells Rs 988 crore worth shares in Meesho, Goldman Sachs buys nearly 1% stake in CMR...",
+          "url": "https://www.moneycontrol.com/news/business/markets/fidelity-investments-sells-rs-988-crore-worth-shares-in-meesho-goldman-sachs-buys-nearly-1-stake-in-cmr-green-13946409.html",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Fidelity offloads Meesho shares worth Rs 988 Cr through block deal",
+          "url": "https://entrackr.com/news/fidelity-offloads-meesho-shares-worth-rs-988-cr-through-block-deal-12024184",
+          "publishedAt": "3 weeks ago"
+        },
+        {
+          "title": "Meesho grants 3,886 stock options under ESOP 2024 Plan",
+          "url": "https://scanx.trade/stock-market-news/companies/meesho-grants-3-886-stock-options-under-esop-2024-plan/44435667",
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "Meesho Turns 11: Founder Unveils Special Film Celebrating India's E-Commerce Journey",
+          "url": "https://www.ndtvprofit.com/business/meesho-turns-11-founder-unveils-special-film-celebrating-indias-e-commerce-journey-11713884",
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "MC Tech3 | Meesho’s Q4 losses shrink, revenue climbs; PB Fintech profit doubles in FY26; and more",
+          "url": "https://www.linkedin.com/pulse/mc-tech3-meeshos-q4-losses-shrink-revenue-climbs-pb-fintech-v90tc",
+          "publishedAt": "May 6, 2026"
+        },
+        {
           "title": "Meesho’s Kirana Ambitions, Battle For Aakash & More",
           "url": "https://inc42.com/buzz/meeshos-kirana-ambitions-battle-for-aakash-more/",
           "publishedAt": "1 week ago"
         },
         {
-          "title": "Meesho Wins New 'Buy' Rating From Citi At 22% Upside. Check Reasons And Price Target",
-          "url": "https://www.ndtvprofit.com/markets/citi-initiates-meesho-at-buy-sees-22-percent-upside-on-value-commerce-bet-11673843",
-          "publishedAt": "1 week ago"
+          "title": "Five Stocks To Buy Today: Meesho, Bank Of Maharashtra, Gland Pharma, And More",
+          "url": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-on-june-30-piramal-finance-meesho-honasa-consumer-bank-of-maharashtra-gland-pharma-11705238",
+          "publishedAt": "6 days ago"
         },
         {
-          "title": "From cart to checkout: How Meesho is leveraging AI to transform online shopping in India",
-          "url": "https://enterpriseai.economictimes.indiatimes.com/news/case-studies/from-cart-to-checkout-how-meesho-is-leveraging-ai-to-transform-online-shopping-in-india/131653458",
+          "title": "Meesho Wins New 'Buy' Rating From Citi At 22% Upside. Check Reasons And Price Target",
+          "url": "https://www.ndtvprofit.com/markets/citi-initiates-meesho-at-buy-sees-22-percent-upside-on-value-commerce-bet-11673843",
           "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "Meesho: Why Jefferies believes the stock could rally 34% from current levels",
+          "url": "https://m.economictimes.com/markets/stocks/news/meesho-why-jefferies-believes-the-stock-could-rally-34-from-current-levels/articleshow/131626680.cms",
+          "publishedAt": "3 weeks ago"
         }
       ],
       "founderMentions": [],
@@ -563,14 +568,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.58441,
-          "fetchedAt": "2026-07-03T08:01:51.570Z"
+          "rating": 4.58445,
+          "fetchedAt": "2026-07-06T04:51:12.559Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.4081903,
-          "fetchedAt": "2026-07-03T08:01:51.570Z"
+          "rating": 4.409003,
+          "fetchedAt": "2026-07-06T04:51:12.559Z"
         }
       ]
     },
@@ -578,34 +583,39 @@
       "slug": "urban-company",
       "news": [
         {
-          "title": "Enterprise value to revenue forward of Urban Company Limited – NSE:URBANCO",
-          "url": "https://www.tradingview.com/symbols/NSE-URBANCO/financials-statistics-and-ratios/enterprise-value-sales-fwd/",
-          "publishedAt": "5 days ago"
+          "title": "Price to book forward of Urban Company Limited – NSE:URBANCO",
+          "url": "https://www.tradingview.com/symbols/NSE-URBANCO/financials-statistics-and-ratios/price-book-fwd/",
+          "publishedAt": "1 week ago"
         },
         {
           "title": "Zomato, Zepto, Swiggy, Urban Company, Porter Challenge Karnataka Gig Workers Act",
           "url": "https://www.rediff.com/business/report/zomato-zepto-swiggy-urban-company-porter-challenge-karnataka-gig-workers-act/20260701.htm",
-          "publishedAt": "1 day ago"
+          "publishedAt": "4 days ago"
+        },
+        {
+          "title": "RBI launches Mission SAKSHAM for capacity building of Urban Co-operative Banking sector",
+          "url": "https://newsonair.gov.in/rbi-launches-mission-saksham-for-capacity-building-of-urban-co-operative-banking-sector/",
+          "publishedAt": "7 hours ago"
         },
         {
           "title": "Urban Company approves financial statements at 12th AGM",
           "url": "https://scanx.trade/stock-market-news/companies/urban-company-approves-financial-statements-at-12th-agm/44362040",
-          "publishedAt": "2 days ago"
+          "publishedAt": "5 days ago"
         },
         {
           "title": "Why Zomato, Rapido, Urban Company have moved HC against Karnataka’s new welfare law for gig workers",
           "url": "https://theprint.in/judiciary/why-zomato-rapido-urban-company-have-moved-hc-against-karnatakas-new-welfare-law-for-gig-workers/2974733/",
-          "publishedAt": "1 day ago"
+          "publishedAt": "4 days ago"
         },
         {
           "title": "Is Convenience Worth The Price? Rs 350 Urban Company Haircut Compared To Rs 60 Salon Visit Sparks Debate",
           "url": "https://www.ndtvprofit.com/trending/is-convenience-worth-the-price-rs-350-urban-company-haircut-compared-to-rs-60-salon-visit-11634237",
-          "publishedAt": "2 weeks ago"
+          "publishedAt": "3 weeks ago"
         },
         {
-          "title": "Urban Company to keep InstaHelp cash burn high as it prioritises scale",
-          "url": "https://www.storyboard18.com/brand-marketing/urban-company-to-keep-instahelp-cash-burn-high-as-it-prioritises-scale-100500.htm",
-          "publishedAt": "3 weeks ago"
+          "title": "Pronto Defends Camera Use; Urban Company CEO Responds",
+          "url": "https://letsdatascience.com/news/pronto-defends-camera-use-urban-company-ceo-responds-65a0029a",
+          "publishedAt": "1 month ago"
         },
         {
           "title": "Urban Company Share Price Jumps 16%: SBI MF Buys ₹632 Cr Stake",
@@ -615,7 +625,7 @@
         {
           "title": "'Meri Job Cancel Kar Di': Urban Company Worker Breaks Down, Says Customer 'Pushed' Her Out After Partial Se",
           "url": "https://www.news18.com/viral/meri-job-cancel-kar-di-urban-company-worker-breaks-down-says-customer-pushed-her-out-after-partial-service-ws-l-10163852.html",
-          "publishedAt": "1 week ago"
+          "publishedAt": "2 weeks ago"
         },
         {
           "title": "Why India's lucrative help at home job market comes with a warning",
@@ -623,39 +633,14 @@
           "publishedAt": "Apr 19, 2026"
         },
         {
-          "title": "Urban Company says InstaHelp burn will remain elevated as it prioritises scale",
-          "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/urban-company-says-instahelp-burn-will-remain-elevated-as-it-prioritises-scale/131578423",
-          "publishedAt": "3 weeks ago"
-        },
-        {
-          "title": "What help-on-demand apps can do better to retain workers amidst price wars",
-          "url": "https://www.forbesindia.com/article/news/deep-dive/what-help-on-demand-apps-can-do-better-to-retain-workers-amidst-price-wars/2994673/1",
-          "publishedAt": "4 weeks ago"
-        },
-        {
-          "title": "Urban Company to host virtual analyst meet on June 30",
-          "url": "https://scanx.trade/stock-market-news/companies/urban-company-to-host-virtual-analyst-meet-on-june-30/44032111",
-          "publishedAt": "6 days ago"
-        },
-        {
-          "title": "Buy, Sell Or Hold: SBI, Suzlon, Pace Digitek, Zee Entertainment, Urban Company, Abbott Labs — Ask Profit",
-          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-sbi-suzlon-pace-digitek-zee-entertainment-urban-company-abbott-labs-ask-profit-11675350",
-          "publishedAt": "1 week ago"
-        },
-        {
-          "title": "Urban Company Limited Actuals & Estimates (NSE:URBANCO)",
-          "url": "https://www.tradingview.com/symbols/NSE-URBANCO/forecast-actuals-and-estimates/",
-          "publishedAt": "6 days ago"
+          "title": "'Meri Job Cancel Kar Di': Urban Company Worker Breaks Down, Says Customer 'Pushed' Her Out After Partial Se",
+          "url": "https://www.news18.com/viral/meri-job-cancel-kar-di-urban-company-worker-breaks-down-says-customer-pushed-her-out-after-partial-service-ws-l-10163852.html",
+          "publishedAt": "2 weeks ago"
         },
         {
           "title": "Urban Company gains 7% on huge volume; stock up 45% from March low",
           "url": "https://www.business-standard.com/markets/news/urban-company-gains-7-on-huge-volume-stock-up-45-from-march-low-126062200373_1.html",
-          "publishedAt": "1 week ago"
-        },
-        {
-          "title": "Urban Company backer Dharana Capital invests $24 mn in Mygate",
-          "url": "https://www.vccircle.com/urbancompany-backer-dharana-capital-invests-24-mn-in-mygate",
-          "publishedAt": "3 weeks ago"
+          "publishedAt": "2 weeks ago"
         },
         {
           "title": "Delhi woman's Urban Company AC service experience goes viral after angry post",
@@ -663,14 +648,34 @@
           "publishedAt": "2 weeks ago"
         },
         {
-          "title": "Urban Company’s Saudi ops move to Yammak following the closure of its subsidiary",
-          "url": "https://enterpriseam.com/mena-india/2026/06/03/urban-companys-saudi-ops-move-to-yammak-following-the-closure-of-its-subsidiary/",
-          "publishedAt": "1 month ago"
+          "title": "Urban Company backer Dharana Capital invests $24 mn in Mygate",
+          "url": "https://www.vccircle.com/urbancompany-backer-dharana-capital-invests-24-mn-in-mygate",
+          "publishedAt": "3 weeks ago"
         },
         {
-          "title": "Pronto Defends Camera Use; Urban Company CEO Responds",
-          "url": "https://letsdatascience.com/news/pronto-defends-camera-use-urban-company-ceo-responds-65a0029a",
-          "publishedAt": "1 month ago"
+          "title": "Urban Company says InstaHelp burn will remain elevated as it prioritises scale",
+          "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/urban-company-says-instahelp-burn-will-remain-elevated-as-it-prioritises-scale/131578423",
+          "publishedAt": "4 weeks ago"
+        },
+        {
+          "title": "Urban Company to host virtual analyst meet on June 30",
+          "url": "https://scanx.trade/stock-market-news/companies/urban-company-to-host-virtual-analyst-meet-on-june-30/44032111",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Buy, Sell Or Hold: SBI, Suzlon, Pace Digitek, Zee Entertainment, Urban Company, Abbott Labs — Ask Profit",
+          "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-sbi-suzlon-pace-digitek-zee-entertainment-urban-company-abbott-labs-ask-profit-11675350",
+          "publishedAt": "2 weeks ago"
+        },
+        {
+          "title": "Urban Company Limited Actuals & Estimates (NSE:URBANCO)",
+          "url": "https://www.tradingview.com/symbols/NSE-URBANCO/forecast-actuals-and-estimates/",
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "‘Lost All Trust’: Woman Alleges AC Stopped Working After Urban Company's Service; Brand Responds",
+          "url": "https://www.news18.com/viral/lost-all-trust-woman-alleges-ac-stopped-working-after-urban-companys-service-brand-responds-ws-l-10160506.html",
+          "publishedAt": "2 weeks ago"
         }
       ],
       "founderMentions": [],
@@ -678,14 +683,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.77238,
-          "fetchedAt": "2026-07-03T08:01:52.122Z"
+          "rating": 4.77242,
+          "fetchedAt": "2026-07-06T04:51:12.990Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.7500196,
-          "fetchedAt": "2026-07-03T08:01:52.122Z"
+          "rating": 4.750331,
+          "fetchedAt": "2026-07-06T04:51:12.990Z"
         }
       ]
     },
@@ -708,14 +713,9 @@
           "publishedAt": "3 weeks ago"
         },
         {
-          "title": "ACKO gives outgoing CMO Ashish Mishra a billboard farewell",
-          "url": "https://www.afaqs.com/news/mktg/acko-gives-outgoing-cmo-ashish-mishra-a-billboard-farewell-12117223",
-          "publishedAt": "3 days ago"
-        },
-        {
-          "title": "ACKO eyes September IPO filing as leadership churn lingers after CMO exit",
-          "url": "https://www.storyboard18.com/brand-marketing/acko-eyes-september-ipo-filing-as-leadership-churn-lingers-after-cmo-exit-100557.htm",
-          "publishedAt": "3 weeks ago"
+          "title": "Acko elevates Nitin Khanna as Chief Marketing Officer",
+          "url": "https://www.storyboard18.com/brand-makers/acko-elevates-nitin-khanna-as-chief-marketing-officer-95713.htm",
+          "publishedAt": "Apr 20, 2026"
         },
         {
           "title": "Acko IPO: Insurance Firm Said To Pick Bankers, Targets $2-$2.5 Billion Valuation",
@@ -728,14 +728,14 @@
           "publishedAt": "Apr 27, 2026"
         },
         {
-          "title": "India’s Acko targets second-half IPO at up to US$2.5bn valuation: reports",
-          "url": "https://insuranceasianews.com/indias-acko-targets-second-half-ipo-at-up-to-us2-5bn-valuation-reports/",
-          "publishedAt": "Apr 27, 2026"
+          "title": "Acko turns profitable targets 2 5 billion ipo valuation",
+          "url": "https://startup.economictimes.indiatimes.com/news/public-markets/acko-turns-profitable-targets-2-5-billion-ipo-valuation/131032671",
+          "publishedAt": "1 month ago"
         },
         {
-          "title": "Acko elevates Nitin Khanna as Chief Marketing Officer",
-          "url": "https://www.storyboard18.com/brand-makers/acko-elevates-nitin-khanna-as-chief-marketing-officer-95713.htm",
-          "publishedAt": "Apr 20, 2026"
+          "title": "ACKO eyes September IPO filing as leadership churn lingers after CMO exit",
+          "url": "https://www.storyboard18.com/brand-marketing/acko-eyes-september-ipo-filing-as-leadership-churn-lingers-after-cmo-exit-100557.htm",
+          "publishedAt": "4 weeks ago"
         },
         {
           "title": "Acko plans confidential IPO filing to raise $250 million; targets $2.5 billion valuation",
@@ -748,13 +748,18 @@
           "publishedAt": "1 month ago"
         },
         {
-          "title": "MC Tech3 | Acko IPO; Quick service platforms users zoom; and more…",
-          "url": "https://www.linkedin.com/pulse/mc-tech3-acko-ipo-quick-service-platforms-users-zoom-more-ksydf",
-          "publishedAt": "Apr 27, 2026"
+          "title": "Acko hires Meta, Junglee Games executives to lead health, auto insurance businesses",
+          "url": "https://m.economictimes.com/tech/startups/acko-hires-former-junglee-games-cpo-apoorv-kalra-to-lead-auto-insurance-business/articleshow/131475936.cms",
+          "publishedAt": "1 month ago"
         },
         {
-          "title": "ACKO sets IPO wheels in motion, eyes $2-2.5 billion valuation - CNBC TV18",
-          "url": "https://www.linkedin.com/posts/cnbc-tv18_acko-sets-ipo-wheels-in-motion-eyes-2-25-activity-7454450111239217153-dSV9",
+          "title": "Acko appoints new executives ahead of IPO plans",
+          "url": "https://startup.economictimes.indiatimes.com/news/fintech/acko-appoints-new-executives-ahead-of-ipo-plans/131508234",
+          "publishedAt": "1 month ago"
+        },
+        {
+          "title": "MC Tech3 | Acko IPO; Quick service platforms users zoom; and more…",
+          "url": "https://www.linkedin.com/pulse/mc-tech3-acko-ipo-quick-service-platforms-users-zoom-more-ksydf",
           "publishedAt": "Apr 27, 2026"
         }
       ],
@@ -774,14 +779,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.7744,
-          "fetchedAt": "2026-07-03T08:01:52.625Z"
+          "rating": 4.77428,
+          "fetchedAt": "2026-07-06T04:51:16.510Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.5664096,
-          "fetchedAt": "2026-07-03T08:01:52.625Z"
+          "rating": 4.56594,
+          "fetchedAt": "2026-07-06T04:51:16.510Z"
         }
       ]
     },
@@ -791,27 +796,17 @@
         {
           "title": "The ₹100 hack that built NoBroker",
           "url": "https://nextbigwhat.com/the-%E2%82%B9100-hack-that-built-nobroker/",
-          "publishedAt": "2 days ago"
-        },
-        {
-          "title": "NoBroker Series D · $50M raised · (2019)",
-          "url": "https://www.startuphub.ai/investment_rounds/nobroker-series-d-2019",
-          "publishedAt": "2 days ago"
+          "publishedAt": "5 days ago"
         },
         {
           "title": "Revolutionizing Relocation: How NoBroker Packers and Movers Are Transforming the Moving Experience in India",
           "url": "https://www.devdiscourse.com/article/business/3942884-revolutionizing-relocation-how-nobroker-packers-and-movers-are-transforming-the-moving-experience-in-india",
-          "publishedAt": "2 days ago"
+          "publishedAt": "5 days ago"
         },
         {
           "title": "No More Traditional Interiors: NoBroker Interiors Is Shaping Homes With Tech and Transparency",
           "url": "https://www.business-standard.com/content/press-releases-ani/no-more-traditional-interiors-nobroker-interiors-is-shaping-homes-with-tech-and-transparency-126061600374_1.html",
           "publishedAt": "2 weeks ago"
-        },
-        {
-          "title": "How many employees work at NoBrokerHood?",
-          "url": "https://www.reveliolabs.com/companies/nobrokerhood/employees/",
-          "publishedAt": "Apr 6, 2026"
         },
         {
           "title": "NoBroker - 2026 Funding Rounds & List of Investors",
@@ -821,12 +816,7 @@
         {
           "title": "NoBroker.com appoints Mitrabinda Mishra as the GM-HR",
           "url": "https://www.hrkatha.com/people/movement/nobroker-com-appoints-mitrabinda-mishra-as-the-gm-hr/",
-          "publishedAt": "3 weeks ago"
-        },
-        {
-          "title": "No More Traditional Interiors: NoBroker Interiors Is Shaping Homes With Tech And Transparency",
-          "url": "https://www.outlookbusiness.com/spotlight/news-wire/no-more-traditional-interiors-nobroker-interiors-is-shaping-homes-with-tech-and-transparency",
-          "publishedAt": "2 weeks ago"
+          "publishedAt": "4 weeks ago"
         },
         {
           "title": "My Experience with NoBroker Packers and Movers in Hyderabad: An Honest Review of Their House Shifting Services",
@@ -844,14 +834,9 @@
           "publishedAt": "Apr 23, 2026"
         },
         {
-          "title": "From Three Days Of Chaos To Five Minutes Of Done: The New Way India Moves",
-          "url": "https://www.outlookbusiness.com/amp/story/spotlight/financehub/from-three-days-of-chaos-to-five-minutes-of-done-the-new-way-india-moves",
-          "publishedAt": "2 days ago"
-        },
-        {
-          "title": "Akhil Gupta, Co-founder & CTPO, NoBroker",
-          "url": "https://www.expresscomputer.in/videos/digi-natives-ecom-summit/akhil-gupta-co-founder-ctpo-nobroker-11-mar-2026-blr/134164/",
-          "publishedAt": "Apr 8, 2026"
+          "title": "The Generation That Moves for a Living",
+          "url": "https://m.thewire.in/article/ptiprnews/the-generation-that-moves-for-a-living",
+          "publishedAt": "1 month ago"
         }
       ],
       "founderMentions": [
@@ -865,14 +850,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.37915,
-          "fetchedAt": "2026-07-03T08:01:53.264Z"
+          "rating": 4.37912,
+          "fetchedAt": "2026-07-06T04:51:19.397Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.6522226,
-          "fetchedAt": "2026-07-03T08:01:53.264Z"
+          "rating": 4.665805,
+          "fetchedAt": "2026-07-06T04:51:19.397Z"
         }
       ]
     },
@@ -882,73 +867,73 @@
         {
           "title": "Used Car Study 2026: Hyundai Verna holds its value best among midsize sedans",
           "url": "https://www.autocarindia.com/auto-features/used-car-study-2026-hyundai-verna-holds-its-value-best-among-midsize-sedans-440742",
-          "publishedAt": "9 hours ago"
+          "publishedAt": "3 days ago"
         },
         {
           "title": "Autocar India and Spinny Unveil Mobility Intelligence Report 2026, Revealing the Forces Reshaping Indias Used-Car Ecosystem",
           "url": "https://m.thewire.in/article/ptiprnews/autocar-india-and-spinny-unveil-mobility-intelligence-report-2026-revealing-the-forces-reshaping-indias-used-car-ecosystem",
-          "publishedAt": "3 days ago"
+          "publishedAt": "6 days ago"
         },
         {
           "title": "Karnataka gets a God Promise: Spinny and Sachin Tendulkar make car selling simpler, fairer, and more trustworthy",
           "url": "https://indiaeducationdiary.in/karnataka-gets-a-god-promise-spinny-and-sachin-tendulkar-make-car-selling-simpler-fairer-and-more-trustworthy/",
-          "publishedAt": "6 days ago"
+          "publishedAt": "1 week ago"
+        },
+        {
+          "title": "Spinny signs on as title sponsor for India vs Ireland T20I Series",
+          "url": "https://www.moneycontrol.com/news/business/companies/spinny-signs-on-as-title-sponsor-for-india-vs-ireland-t20i-series-13959773.html",
+          "publishedAt": "1 week ago"
         },
         {
           "title": "Used-car buyers drive India's mobility shift, with first-time owners powering market growth: Autocar India-Spinny report",
           "url": "https://www.aninews.in/news/business/used-car-buyers-drive-indias-mobility-shift-with-first-time-owners-powering-market-growth-autocar-india-spinny-report20260627095523",
-          "publishedAt": "5 days ago"
+          "publishedAt": "1 week ago"
         },
         {
           "title": "Autocar India and Spinny reveal used car study 2026",
           "url": "https://www.autocarindia.com/industry/autocar-india-and-spinny-reveal-used-car-study-2026-440057",
-          "publishedAt": "6 days ago"
-        },
-        {
-          "title": "Used Car Study 2026: Maruti Baleno holds its value best among midsize hatches",
-          "url": "https://www.autocarindia.com/auto-features/used-car-study-2026-maruti-baleno-holds-its-value-best-among-midsize-hatches-440731",
-          "publishedAt": "2 days ago"
+          "publishedAt": "1 week ago"
         },
         {
           "title": "Used Car Study 2026: Maruti Dzire holds its value best among compact sedans",
           "url": "https://www.autocarindia.com/auto-features/used-car-study-2026-maruti-dzire-holds-its-value-best-among-compact-sedans-440733",
-          "publishedAt": "1 day ago"
-        },
-        {
-          "title": "Used Car Study 2026: Grand i10 Nios holds its value best among midsize hatches",
-          "url": "https://www.autocarindia.com/auto-features/used-car-study-2026-grand-i10-nios-holds-its-value-best-among-midsize-hatches-440723",
           "publishedAt": "4 days ago"
         }
       ],
       "founderMentions": [
         {
-          "title": "Police raid Double Down Bar Operator’s House, Seize Vehicles",
-          "url": "https://avenuemail.in/police-raid-double-down-bar-operators-house-seize-vehicles/",
-          "publishedAt": "17 hours ago"
+          "title": "BJP leader Niraj Singh arrested at Rajasthan in Jamshedpur DD Bar Murder Case",
+          "url": "https://avenuemail.in/bjp-leader-niraj-singh-arrested-in-rajasthan-in-jamshedpur-dd-bar-murder-case/",
+          "publishedAt": "12 hours ago"
         },
         {
-          "title": "Spinny - 2026 Latest Shareholding & Valuation",
-          "url": "https://tracxn.com/d/companies/spinny/__XPTRjqAEv0ME2UC43GvO_tx0bNL9tbZO0XYHhRF0oWE/latest-shareholding",
-          "publishedAt": "2 weeks ago"
+          "title": "Huidrom Niraj Singh",
+          "url": "https://www.transfermarkt.com/huidrom-niraj-singh/leistungsdatendetails/spieler/1229597/saison/2023/wettbewerb/ID17",
+          "publishedAt": "3 days ago"
+        },
+        {
+          "title": "Police raid Double Down Bar Operator’s House, Seize Vehicles",
+          "url": "https://avenuemail.in/police-raid-double-down-bar-operators-house-seize-vehicles/",
+          "publishedAt": "4 days ago"
         },
         {
           "title": "East Singhbhum police suspend four cops over bar clash death in Jamshedpur",
           "url": "https://timesofindia.indiatimes.com/city/ranchi/east-singhbhum-police-suspend-four-cops-over-bar-clash-death-in-jamshedpur/articleshow/132096620.cms",
-          "publishedAt": "2 days ago"
+          "publishedAt": "5 days ago"
         }
       ],
       "appRanks": [
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.55687,
-          "fetchedAt": "2026-07-03T08:01:53.938Z"
+          "rating": 4.55701,
+          "fetchedAt": "2026-07-06T04:51:22.794Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.563283,
-          "fetchedAt": "2026-07-03T08:01:53.938Z"
+          "rating": 4.5625668,
+          "fetchedAt": "2026-07-06T04:51:22.794Z"
         }
       ]
     },
@@ -963,7 +948,7 @@
         {
           "title": "XpressBees - 2026 Latest Shareholding & Valuation",
           "url": "https://tracxn.com/d/companies/xpressbees/__DKxP1rRdFu6PD1qkXIF_1w595cRKjVa_JTZXdRFdEX4/latest-shareholding",
-          "publishedAt": "4 weeks ago"
+          "publishedAt": "1 month ago"
         },
         {
           "title": "Delhivery CEO Sahil Barua calls Amazon’s 3PL push “old product in new wrapper”, questions XpressBees edge",
@@ -991,14 +976,19 @@
           "title": "PAGE partners with 8chili to launch AI and VR training platform for pharma manufacturing in India",
           "url": "https://www.expresspharma.in/page-partners-with-8chili-to-launch-ai-and-vr-training-platform-for-pharma-manufacturing-in-india/",
           "publishedAt": "Apr 23, 2026"
+        },
+        {
+          "title": "NimbusPost names Ankit Sood as Chief Executive Officer",
+          "url": "https://www.medianews4u.com/nimbuspost-names-ankit-sood-as-chief-executive-officer/",
+          "publishedAt": "1 week ago"
         }
       ],
       "appRanks": [
         {
           "platform": "android",
           "rank": null,
-          "rating": 3.1821408,
-          "fetchedAt": "2026-07-03T08:01:54.493Z"
+          "rating": 3.1843805,
+          "fetchedAt": "2026-07-06T04:51:25.617Z"
         }
       ]
     },
@@ -1008,7 +998,7 @@
         {
           "title": "JEE 2022: Ellipse L1 | Standard Equation Of Ellipse | Unacademy JEE | IIT JEE Maths | Sameer Sir Robert Milkins (xNotwMEH1M)",
           "url": "https://fathomjournal.org/1cbdb3db/32adc1f5qbgOd8O8a-A",
-          "publishedAt": "5 days ago"
+          "publishedAt": "1 week ago"
         },
         {
           "title": "India: Sumit Jain steps down as Unacademy test-prep CEO",
@@ -1023,16 +1013,6 @@
         {
           "title": "Karnataka High Court Refuses Interim Relief To Unacademy Parent In Dispute With Former Educator",
           "url": "https://www.livelawbiz.com/high-court/karnataka-high-court/karnataka-high-court-unacademy-parent-cannot-seek-same-relief-before-high-court-and-commercial-court-536779",
-          "publishedAt": "1 month ago"
-        },
-        {
-          "title": "Unacademy co-founder and Test Prep biz CEO Sumit Jain steps down",
-          "url": "https://entrackr.com/news/unacademy-co-founder-and-test-prep-biz-ceo-sumit-jain-steps-down-11850277",
-          "publishedAt": "1 month ago"
-        },
-        {
-          "title": "UpGrad value pegged at $1.7 billion as Unacademy deal awaits CCI assent",
-          "url": "https://m.economictimes.com/tech/startups/upgrad-value-pegged-at-1-7-billion-as-unacademy-deal-awaits-cci-assent/articleshow/131207502.cms",
           "publishedAt": "1 month ago"
         },
         {
@@ -1052,14 +1032,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.48515,
-          "fetchedAt": "2026-07-03T08:01:55.037Z"
+          "rating": 4.48513,
+          "fetchedAt": "2026-07-06T04:51:28.461Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.117841,
-          "fetchedAt": "2026-07-03T08:01:55.037Z"
+          "rating": 4.1181483,
+          "fetchedAt": "2026-07-06T04:51:28.461Z"
         }
       ]
     }
