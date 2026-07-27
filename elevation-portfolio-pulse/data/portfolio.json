@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:13:37.779Z",
+  "generatedAt": "2026-07-27T04:13:15.145Z",
   "companies": [
     {
       "slug": "swiggy",
@@ -9,14 +9,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.45375,
-          "fetchedAt": "2026-07-20T04:13:33.458Z"
+          "rating": 4.45216,
+          "fetchedAt": "2026-07-27T04:13:10.117Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.5028844,
-          "fetchedAt": "2026-07-20T04:13:33.458Z"
+          "rating": 4.5026784,
+          "fetchedAt": "2026-07-27T04:13:10.117Z"
         }
       ]
     },
@@ -28,14 +28,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.65191,
-          "fetchedAt": "2026-07-20T04:13:34.113Z"
+          "rating": 4.6519,
+          "fetchedAt": "2026-07-27T04:13:10.868Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.6554885,
-          "fetchedAt": "2026-07-20T04:13:34.113Z"
+          "rating": 4.6560473,
+          "fetchedAt": "2026-07-27T04:13:10.868Z"
         }
       ]
     },
@@ -47,14 +47,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.77733,
-          "fetchedAt": "2026-07-20T04:13:34.521Z"
+          "rating": 4.77761,
+          "fetchedAt": "2026-07-27T04:13:11.292Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.4806576,
-          "fetchedAt": "2026-07-20T04:13:34.521Z"
+          "rating": 4.478979,
+          "fetchedAt": "2026-07-27T04:13:11.292Z"
         }
       ]
     },
@@ -66,14 +66,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.58453,
-          "fetchedAt": "2026-07-20T04:13:34.967Z"
+          "rating": 4.5846,
+          "fetchedAt": "2026-07-27T04:13:11.646Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.4068136,
-          "fetchedAt": "2026-07-20T04:13:34.967Z"
+          "rating": 4.404911,
+          "fetchedAt": "2026-07-27T04:13:11.646Z"
         }
       ]
     },
@@ -85,14 +85,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.77264,
-          "fetchedAt": "2026-07-20T04:13:35.323Z"
+          "rating": 4.77278,
+          "fetchedAt": "2026-07-27T04:13:12.089Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.7493553,
-          "fetchedAt": "2026-07-20T04:13:35.323Z"
+          "rating": 4.750147,
+          "fetchedAt": "2026-07-27T04:13:12.089Z"
         }
       ]
     },
@@ -104,14 +104,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.77372,
-          "fetchedAt": "2026-07-20T04:13:35.691Z"
+          "rating": 4.77376,
+          "fetchedAt": "2026-07-27T04:13:12.544Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.5672793,
-          "fetchedAt": "2026-07-20T04:13:35.691Z"
+          "rating": 4.5667024,
+          "fetchedAt": "2026-07-27T04:13:12.544Z"
         }
       ]
     },
@@ -123,14 +123,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.37674,
-          "fetchedAt": "2026-07-20T04:13:36.073Z"
+          "rating": 4.37592,
+          "fetchedAt": "2026-07-27T04:13:13.095Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.665962,
-          "fetchedAt": "2026-07-20T04:13:36.073Z"
+          "rating": 4.656083,
+          "fetchedAt": "2026-07-27T04:13:13.095Z"
         }
       ]
     },
@@ -142,14 +142,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.55931,
-          "fetchedAt": "2026-07-20T04:13:36.505Z"
+          "rating": 4.56191,
+          "fetchedAt": "2026-07-27T04:13:13.800Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.5600185,
-          "fetchedAt": "2026-07-20T04:13:36.505Z"
+          "rating": 4.5541472,
+          "fetchedAt": "2026-07-27T04:13:13.800Z"
         }
       ]
     },
@@ -161,8 +161,8 @@
         {
           "platform": "android",
           "rank": null,
-          "rating": 3.168839,
-          "fetchedAt": "2026-07-20T04:13:37.166Z"
+          "rating": 3.1748376,
+          "fetchedAt": "2026-07-27T04:13:14.177Z"
         }
       ]
     },
@@ -174,14 +174,14 @@
         {
           "platform": "ios",
           "rank": null,
-          "rating": 4.4851,
-          "fetchedAt": "2026-07-20T04:13:37.470Z"
+          "rating": 4.48506,
+          "fetchedAt": "2026-07-27T04:13:14.684Z"
         },
         {
           "platform": "android",
           "rank": null,
-          "rating": 4.1193705,
-          "fetchedAt": "2026-07-20T04:13:37.470Z"
+          "rating": 4.1197033,
+          "fetchedAt": "2026-07-27T04:13:14.684Z"
         }
       ]
     }
